@@ -1,0 +1,417 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="11b64349-6058-4d9c-a691-18d95007c77f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1WvyJ0L9Jq7sewQsqinRAQIxvWT" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../hdw-dubbo-master/hdw-dubbo-master" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="search_tree" />
+      <recent name="array" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\idea\MVN\src\main\java\array" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.TestFanxing">
+    <configuration name="Solution151" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="string.Solution151" />
+      <module name="Leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="string.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution22" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="stack.Solution22" />
+      <module name="Leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="stack.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution992" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sliding_window.Solution992" />
+      <module name="Leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sliding_window.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestFanxing" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test.TestFanxing" />
+      <module name="Leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestHashMap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test.TestHashMap" />
+      <module name="Leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TestFanxing" />
+        <item itemvalue="Application.Solution992" />
+        <item itemvalue="Application.TestHashMap" />
+        <item itemvalue="Application.Solution151" />
+        <item itemvalue="Application.Solution22" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="11b64349-6058-4d9c-a691-18d95007c77f" name="Default Changelist" comment="" />
+      <created>1580044290634</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580044290634</updated>
+      <workItem from="1580044300619" duration="2763000" />
+      <workItem from="1580050170134" duration="5350000" />
+      <workItem from="1580105739300" duration="11867000" />
+      <workItem from="1580183764680" duration="6708000" />
+      <workItem from="1580273324477" duration="1658000" />
+      <workItem from="1580292844649" duration="11514000" />
+      <workItem from="1580368685511" duration="3645000" />
+      <workItem from="1580385477901" duration="7102000" />
+      <workItem from="1580440143598" duration="16173000" />
+      <workItem from="1580483884154" duration="2729000" />
+      <workItem from="1580533211128" duration="3914000" />
+      <workItem from="1580743387374" duration="1347000" />
+      <workItem from="1580783114245" duration="9184000" />
+      <workItem from="1580962103644" duration="1368000" />
+      <workItem from="1581165873796" duration="2855000" />
+      <workItem from="1581229753449" duration="4488000" />
+      <workItem from="1581308496476" duration="2067000" />
+      <workItem from="1581390096350" duration="5280000" />
+      <workItem from="1581476353964" duration="12145000" />
+      <workItem from="1581560331417" duration="2046000" />
+      <workItem from="1581578869339" duration="3771000" />
+      <workItem from="1581603016353" duration="1191000" />
+      <workItem from="1581656519344" duration="6586000" />
+      <workItem from="1581686000642" duration="5863000" />
+      <workItem from="1581697851991" duration="593000" />
+      <workItem from="1581758955643" duration="616000" />
+      <workItem from="1581770703147" duration="4486000" />
+      <workItem from="1581839090540" duration="3032000" />
+      <workItem from="1581854121325" duration="4661000" />
+      <workItem from="1581903238269" duration="93000" />
+      <workItem from="1582375621680" duration="988000" />
+      <workItem from="1582688874423" duration="3462000" />
+      <workItem from="1582768696410" duration="308000" />
+      <workItem from="1582979435924" duration="596000" />
+      <workItem from="1583724082972" duration="1799000" />
+      <workItem from="1583931897830" duration="4866000" />
+      <workItem from="1584282979136" duration="818000" />
+      <workItem from="1584327359369" duration="1235000" />
+      <workItem from="1584798461663" duration="4224000" />
+      <workItem from="1584846080199" duration="4933000" />
+      <workItem from="1584963030817" duration="8122000" />
+      <workItem from="1585015525621" duration="1409000" />
+      <workItem from="1585062995305" duration="710000" />
+      <workItem from="1585102428090" duration="4632000" />
+      <workItem from="1585188364730" duration="5410000" />
+      <workItem from="1585278583546" duration="4833000" />
+      <workItem from="1585312505104" duration="642000" />
+      <workItem from="1585360700818" duration="12592000" />
+      <workItem from="1585448852969" duration="9417000" />
+      <workItem from="1585495418586" duration="757000" />
+      <workItem from="1585541633050" duration="5665000" />
+      <workItem from="1585620328597" duration="10028000" />
+      <workItem from="1585708338643" duration="2681000" />
+      <workItem from="1585726113502" duration="374000" />
+      <workItem from="1585813841524" duration="7970000" />
+      <workItem from="1585919116424" duration="510000" />
+      <workItem from="1585921771717" duration="7935000" />
+      <workItem from="1586006836261" duration="7527000" />
+      <workItem from="1586076062121" duration="7443000" />
+      <workItem from="1586091116465" duration="4417000" />
+      <workItem from="1586143014564" duration="1634000" />
+      <workItem from="1586231401183" duration="5138000" />
+      <workItem from="1586310799196" duration="2425000" />
+      <workItem from="1586396605282" duration="6677000" />
+      <workItem from="1586487909572" duration="3422000" />
+      <workItem from="1586744169149" duration="1171000" />
+      <workItem from="1587522462371" duration="4432000" />
+      <workItem from="1587560576172" duration="361000" />
+      <workItem from="1587610361258" duration="929000" />
+      <workItem from="1588040454299" duration="2568000" />
+      <workItem from="1588390827892" duration="15914000" />
+      <workItem from="1588592672269" duration="2607000" />
+      <workItem from="1588596766933" duration="6377000" />
+      <workItem from="1588753685554" duration="5457000" />
+      <workItem from="1589116125944" duration="4427000" />
+      <workItem from="1589163773492" duration="5813000" />
+      <workItem from="1589205983161" duration="2028000" />
+      <workItem from="1589467460288" duration="217000" />
+      <workItem from="1590305905024" duration="3279000" />
+      <workItem from="1590407572524" duration="1806000" />
+      <workItem from="1590826926692" duration="8482000" />
+      <workItem from="1590897413329" duration="4837000" />
+      <workItem from="1591283975688" duration="2348000" />
+      <workItem from="1591371054095" duration="841000" />
+      <workItem from="1592060440623" duration="1084000" />
+      <workItem from="1592712003834" duration="1159000" />
+      <workItem from="1595259726961" duration="871000" />
+      <workItem from="1595431388920" duration="2768000" />
+      <workItem from="1595663113297" duration="8656000" />
+      <workItem from="1595687057788" duration="3570000" />
+      <workItem from="1596035247522" duration="619000" />
+      <workItem from="1596122321778" duration="3715000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="275" y="22" key="#Project_Structure" timestamp="1588595083549">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="22" key="#Project_Structure/0.0.1366.728@0.0.1366.728" timestamp="1588595083549" />
+    <state x="488" y="73" key="#com.intellij.ide.util.MemberChooser" timestamp="1588600620792">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="488" y="73" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1588600620792" />
+    <state x="600" y="101" key="#com.intellij.ide.util.MemberChooser/0.0.1680.1010@0.0.1680.1010" timestamp="1588402530718" />
+    <state width="1323" height="194" key="GridCell.Tab.0.bottom" timestamp="1588608316342">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="194" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1588608316342" />
+    <state width="1637" height="182" key="GridCell.Tab.0.bottom/0.0.1680.1010@0.0.1680.1010" timestamp="1588428768472" />
+    <state width="1323" height="194" key="GridCell.Tab.0.center" timestamp="1588608316342">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="194" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1588608316342" />
+    <state width="1637" height="182" key="GridCell.Tab.0.center/0.0.1680.1010@0.0.1680.1010" timestamp="1588428768472" />
+    <state width="1323" height="194" key="GridCell.Tab.0.left" timestamp="1588608316327">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="194" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1588608316327" />
+    <state width="1637" height="182" key="GridCell.Tab.0.left/0.0.1680.1010@0.0.1680.1010" timestamp="1588428768472" />
+    <state width="1323" height="194" key="GridCell.Tab.0.right" timestamp="1588608316342">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="194" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1588608316342" />
+    <state width="1637" height="182" key="GridCell.Tab.0.right/0.0.1680.1010@0.0.1680.1010" timestamp="1588428768472" />
+    <state width="1637" height="135" key="GridCell.Tab.1.bottom" timestamp="1588428768466">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state width="1637" height="135" key="GridCell.Tab.1.bottom/0.0.1680.1010@0.0.1680.1010" timestamp="1588428768466" />
+    <state width="1637" height="135" key="GridCell.Tab.1.center" timestamp="1588428768465">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state width="1637" height="135" key="GridCell.Tab.1.center/0.0.1680.1010@0.0.1680.1010" timestamp="1588428768465" />
+    <state width="1637" height="135" key="GridCell.Tab.1.left" timestamp="1588428768465">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state width="1637" height="135" key="GridCell.Tab.1.left/0.0.1680.1010@0.0.1680.1010" timestamp="1588428768465" />
+    <state width="1637" height="135" key="GridCell.Tab.1.right" timestamp="1588428768466">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state width="1637" height="135" key="GridCell.Tab.1.right/0.0.1680.1010@0.0.1680.1010" timestamp="1588428768466" />
+    <state x="163" y="0" key="SettingsEditor" timestamp="1595669178097">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="163" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1595669178097" />
+    <state x="368" y="188" width="639" height="345" key="com.intellij.ide.util.TipDialog" timestamp="1596122365207">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="368" y="188" width="639" height="345" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1596122365207" />
+    <state x="453" y="261" key="com.intellij.ide.util.TipDialog/0.0.1680.1010@0.0.1680.1010" timestamp="1588391711916" />
+    <state x="115" y="117" key="new project wizard" timestamp="1592712385306">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="115" y="117" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1592712385306" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1595689034205">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1595689034205" />
+    <state x="426" y="68" width="827" height="941" key="search.everywhere.popup/0.0.1680.1010@0.0.1680.1010" timestamp="1588397657585" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/test/Test.java</url>
+          <line>123</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/binary_search/Solution704.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/binary_search/Solution350.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/binary_search/Solution153.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/stack/Solution42.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/DFS/Solution130.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/sort/QuickSort.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Main.java</url>
+          <line>34</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/maths/Solution7.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/array/Solution914.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/array/Solution820.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/test/Test.java</url>
+          <line>70</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/array/Solution1162.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/BFS/Solution1162.java</url>
+          <line>36</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/BFS/M13.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/stack/Solution22.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/sliding_window/Solution992.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>jar://D:/java8/src.zip!/java/util/HashMap.java</url>
+          <line>1060</line>
+          <properties class="java.util.HashMap" method="putIfAbsent">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
