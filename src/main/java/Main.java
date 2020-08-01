@@ -6,7 +6,8 @@ import java.util.Vector;
 
 public class Main {
     public static void main(String[] args) {
-        ClassLoader
+
+
         Scanner s = new Scanner(System.in);
         int n = s.nextInt();
         int[] work = new int[n];

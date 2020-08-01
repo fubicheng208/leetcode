@@ -1,5 +1,6 @@
 package test;
 
+import array.M21;
 import array.Solution1162;
 import array.Solution820;
 import array.Solution914;
@@ -18,6 +19,7 @@ import maths.Solution7;
 import sort.QuickSort;
 import sort.Solution912;
 import stack.Solution42;
+import string.M50;
 
 import java.util.Arrays;
 import java.util.HashSet;
@@ -26,8 +28,16 @@ import java.util.PriorityQueue;
 
 public class Test {
     public static void main(String[] params) {
+        //M50
+        String s = "loveleetcode";
+        System.out.println(M50.firstUniqChar(s));
 
-        class Tmp {
+
+        //M21
+  /*      int[] nums = new int[]{1,2,3,4};
+        System.out.println(M21.exchange(nums));*/
+
+/*        class Tmp {
             int a;
 
             public Tmp(int a) {
@@ -44,7 +54,7 @@ public class Test {
         }
         for (Tmp i : ns) {
             System.out.println(i.a);
-        }
+        }*/
 
         /*PriorityQueue<Integer> queue = new PriorityQueue();
         queue.add(1);

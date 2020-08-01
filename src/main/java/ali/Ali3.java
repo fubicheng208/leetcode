@@ -12,7 +12,7 @@ public class Ali3 {
                 res[j] = chs[i];
             else if (i >= index && i <= index + replace.length())
                 continue;
-            else
         }
+        return "";
     }
 }
