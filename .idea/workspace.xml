@@ -1,50 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="11b64349-6058-4d9c-a691-18d95007c77f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/array/M21.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/array/M56.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/heap/M40.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/linked_list/M52.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/string/M50.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/tree/M55_2.java" afterDir="false" />
+    <list default="true" id="11b64349-6058-4d9c-a691-18d95007c77f" name="Default Changelist" comment="20200802">
+      <change afterPath="$PROJECT_DIR$/src/main/java/stack/M30.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ali/Ali3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ali/Ali3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/array/M57.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/array/M57.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/test/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/test/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/BFS/M13.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/BFS/M13.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/BFS/Solution279$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/BFS/Solution279$Node.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/BFS/Solution279.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/BFS/Solution279.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ali/Ali1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ali/Ali1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/array/Solution289.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/array/Solution289.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/bit_manipulation/M56_1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/bit_manipulation/M56_1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/design/LRUCache$MyLinkedHashMap.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/design/LRUCache$MyLinkedHashMap.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/design/LRUCache.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/design/LRUCache.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/greedy/Index.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/greedy/Index.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/greedy/Solution55.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/greedy/Solution55.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/heap/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/heap/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/sliding_window/Solution992.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/sliding_window/Solution992.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/stack/Solution150.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/stack/Solution150.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/stack/Solution20.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/stack/Solution20.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/string/Solution8$Automaton.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/string/Solution8$Automaton.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/test/Test$1Tmp.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/test/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/test/Test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/test/TestFanxing.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/test/TestFanxing.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/test/TestLHM$myLinkedHashMap.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/test/TestLHM$myLinkedHashMap.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/test/TestLHM.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/test/TestLHM.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/test/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/test/User.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/tire_tree/Solution720$Trie.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/tire_tree/Solution720$Trie.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/tire_tree/Solution720$TrieNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/tire_tree/Solution720$TrieNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/tire_tree/Solution820$Trie.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/tire_tree/Solution820$Trie.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/tire_tree/Solution820$TrieNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/tire_tree/Solution820$TrieNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/tire_tree/Trie$TrieNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/tire_tree/Trie$TrieNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/tire_tree/Trie.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/tire_tree/Trie.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/tree/Solution116$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/tree/Solution116$Node.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/tree/Solution543.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/tree/Solution543.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/tree/TreeNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/tree/TreeNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/bit_manipulation/M65.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bit_manipulation/M65.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -292,12 +252,25 @@
       <workItem from="1595687057788" duration="3570000" />
       <workItem from="1596035247522" duration="619000" />
       <workItem from="1596122321778" duration="3715000" />
-      <workItem from="1596250988199" duration="14892000" />
+      <workItem from="1596250988199" duration="16313000" />
     </task>
+    <task id="LOCAL-00001" summary="20200801">
+      <created>1596296633597</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1596296633597</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="20200801" />
+    <MESSAGE value="20200802" />
+    <option name="LAST_COMMIT_MESSAGE" value="20200802" />
   </component>
   <component name="WindowStateProjectService">
     <state x="275" y="22" key="#Project_Structure" timestamp="1588595083549">
@@ -309,10 +282,10 @@
     </state>
     <state x="488" y="73" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1588600620792" />
     <state x="600" y="101" key="#com.intellij.ide.util.MemberChooser/0.0.1680.1010@0.0.1680.1010" timestamp="1588402530718" />
-    <state x="283" y="0" key="CommitChangelistDialog2" timestamp="1596296616124">
+    <state x="283" y="0" key="CommitChangelistDialog2" timestamp="1596297953163">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="283" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1596296616124" />
+    <state x="283" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1596297953163" />
     <state width="1323" height="158" key="GridCell.Tab.0.bottom" timestamp="1596296594269">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -357,6 +330,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="163" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1596290369290" />
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1596296647001">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1596296647001" />
     <state x="368" y="188" width="639" height="345" key="com.intellij.ide.util.TipDialog" timestamp="1596251143931">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
