@@ -28,4 +28,31 @@ public class QuickSort {
         if (i < r)
             quickSort(nums, i, r);
     }
+
+    public static void quickSort2(int[] nums, int l, int r){
+        int tmp;
+        int i = l, j = r;
+        if(l < r){
+            tmp = nums[l];
+            while(i < j){
+                while(j > i && nums[j] >= tmp){
+                    j--;
+                }
+                if(i < j){
+                    nums[i] = nums[j];
+                    i++;
+                }
+                while(i < j && nums[i] <= tmp){
+                    i++;
+                }
+                if(i < j){
+                    nums[j] = nums[i];
+                    j--;
+                }
+            }
+            nums[i] = tmp;
+            quickSort2(nums, l, i - 1);
+            quickSort2(nums, i + 1, r);
+        }
+    }
 }

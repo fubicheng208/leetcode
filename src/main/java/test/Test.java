@@ -28,9 +28,14 @@ import java.util.PriorityQueue;
 
 public class Test {
     public static void main(String[] params) {
-        //M50
+
+        List<Integer> ls = Arrays.asList(1,2);
+        ls.add(3);
+        System.out.println(ls.toString());
+
+/*        //M50
         String s = "loveleetcode";
-        System.out.println(M50.firstUniqChar(s));
+        System.out.println(M50.firstUniqChar(s));*/
 
 
         //M21

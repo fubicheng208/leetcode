@@ -2,16 +2,49 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="11b64349-6058-4d9c-a691-18d95007c77f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pdd/P2020.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pdd/P2021.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pdd/P2021_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pdd/P2021_3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sort/InsertSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/wangyi/WY1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/wangyi/WY2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ST.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/back_tracking/Solution51.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/bishi/b360/P1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/bishi/meituan/P1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/bishi/meituan/P2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/bishi/meituan/P3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/bishi/meituan/P4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/bishi/meituan/P4_p.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/bishi/sogou/P1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/bishi/sogou/P3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/bishi/tx/D2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/bishi/tx/P1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/bishi/tx/P1_o.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/bishi/wyAndroid/P3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/bishi/yfd/P2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/bishi/yfd/P2_T.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/bishi/yfd/P3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dp/pack/Lint125_01_value.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dp/pack/Lint440_full_value.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dp/pack/Lint562_full_cnt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dp/pack/Lint563_01_cnt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dp/pack/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/duoyi/M1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pdd/P2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pdd/P3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pdd/P3_p.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pdd/P4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pdd/P4_p.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pdd/P4_p2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sort/BubbleSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sort/HeapSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sort/MergeSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sort/SelectSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sort/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sort/SortTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/stack/meitua/M1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/tx/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/sort/QuickSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sort/QuickSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/test/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/test/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/sort/QuickSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/sort/QuickSort.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/test/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/test/Test.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,9 +84,13 @@
     </expand>
     <select />
   </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Leetcode" />
+  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="FxmlFile" />
         <option value="Class" />
       </list>
     </option>
@@ -83,7 +120,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../hdw-dubbo-master/hdw-dubbo-master" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../test2" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -91,20 +128,23 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="bishi.tx" />
+      <recent name="bishi.meituan" />
+      <recent name="pdd" />
+      <recent name="bishi.yinke" />
       <recent name="search_tree" />
-      <recent name="array" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="E:\idea\MVN\src\main\java\array" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.InsertSort">
-    <configuration name="InsertSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sort.InsertSort" />
+  <component name="RunManager" selected="Application.Test">
+    <configuration name="P1 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="bishi.wyAndroid.P1" />
       <module name="Leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="sort.*" />
+          <option name="PATTERN" value="bishi.wyAndroid.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -112,12 +152,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="P2021_3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="pdd.P2021_3" />
+    <configuration name="P1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="bishi.yfd.P1" />
       <module name="Leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="pdd.*" />
+          <option name="PATTERN" value="bishi.yfd.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -125,12 +165,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WY1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="wangyi.WY1" />
+    <configuration name="P2 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="bishi.yfd.P2" />
       <module name="Leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="wangyi.*" />
+          <option name="PATTERN" value="bishi.yfd.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -138,12 +178,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WY2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="wangyi.WY2" />
+    <configuration name="P3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="bishi.yfd.P3" />
       <module name="Leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="wangyi.*" />
+          <option name="PATTERN" value="bishi.yfd.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -151,12 +191,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WY3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="wangyi.WY3" />
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dp.pack.Test" />
       <module name="Leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="wangyi.*" />
+          <option name="PATTERN" value="dp.pack.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -166,11 +206,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.InsertSort" />
-        <item itemvalue="Application.WY3" />
-        <item itemvalue="Application.WY2" />
-        <item itemvalue="Application.WY1" />
-        <item itemvalue="Application.P2021_3" />
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.P3" />
+        <item itemvalue="Application.P2 (1)" />
+        <item itemvalue="Application.P1" />
+        <item itemvalue="Application.P1 (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -307,7 +347,27 @@
       <workItem from="1596336251724" duration="14342000" />
       <workItem from="1596468530299" duration="939000" />
       <workItem from="1596868719935" duration="10625000" />
-      <workItem from="1596956407571" duration="5704000" />
+      <workItem from="1596956407571" duration="6356000" />
+      <workItem from="1597244862684" duration="1547000" />
+      <workItem from="1597318061921" duration="3367000" />
+      <workItem from="1597412028887" duration="7317000" />
+      <workItem from="1597464532975" duration="1434000" />
+      <workItem from="1597493792983" duration="3791000" />
+      <workItem from="1597549778014" duration="4768000" />
+      <workItem from="1597903972203" duration="3453000" />
+      <workItem from="1597918964538" duration="2277000" />
+      <workItem from="1598618485742" duration="5607000" />
+      <workItem from="1598684230852" duration="4152000" />
+      <workItem from="1598775777638" duration="4930000" />
+      <workItem from="1598873010355" duration="899000" />
+      <workItem from="1598958610899" duration="8498000" />
+      <workItem from="1599195399720" duration="3410000" />
+      <workItem from="1599270148497" duration="19725000" />
+      <workItem from="1599393271525" duration="9291000" />
+      <workItem from="1599561211271" duration="55000" />
+      <workItem from="1599822364093" duration="5577000" />
+      <workItem from="1599896436099" duration="14259000" />
+      <workItem from="1599965462528" duration="7153000" />
     </task>
     <task id="LOCAL-00001" summary="20200801">
       <created>1596296633597</created>
@@ -323,7 +383,14 @@
       <option name="project" value="LOCAL" />
       <updated>1596297980691</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="拼多多+网易+插入排序">
+      <created>1596989475835</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1596989475835</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -332,13 +399,10 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="20200801" />
     <MESSAGE value="20200802" />
-    <option name="LAST_COMMIT_MESSAGE" value="20200802" />
+    <MESSAGE value="拼多多+网易+插入排序" />
+    <option name="LAST_COMMIT_MESSAGE" value="拼多多+网易+插入排序" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="275" y="22" key="#Project_Structure" timestamp="1588595083549">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="275" y="22" key="#Project_Structure/0.0.1366.728@0.0.1366.728" timestamp="1588595083549" />
     <state x="253" y="25" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1596987325518">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -347,92 +411,93 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="488" y="73" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1596370163475" />
-    <state x="600" y="101" key="#com.intellij.ide.util.MemberChooser/0.0.1680.1010@0.0.1680.1010" timestamp="1588402530718" />
-    <state x="283" y="0" key="CommitChangelistDialog2" timestamp="1596297979257">
+    <state x="403" y="289" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1597562117562">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="283" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1596297979257" />
-    <state width="1323" height="92" key="GridCell.Tab.0.bottom" timestamp="1596989373081">
+    <state x="403" y="289" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1366.728@0.0.1366.728" timestamp="1597562117562" />
+    <state x="283" y="0" key="CommitChangelistDialog2" timestamp="1596989470900">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="92" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1596989373081" />
-    <state width="1637" height="182" key="GridCell.Tab.0.bottom/0.0.1680.1010@0.0.1680.1010" timestamp="1588428768472" />
-    <state width="1323" height="92" key="GridCell.Tab.0.center" timestamp="1596989373081">
+    <state x="283" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1596989470900" />
+    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1599833202718">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="92" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1596989373081" />
-    <state width="1637" height="182" key="GridCell.Tab.0.center/0.0.1680.1010@0.0.1680.1010" timestamp="1588428768472" />
-    <state width="1323" height="92" key="GridCell.Tab.0.left" timestamp="1596989373080">
+    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1599833202718" />
+    <state width="1323" height="88" key="GridCell.Tab.0.bottom" timestamp="1599972344241">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="92" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1596989373080" />
-    <state width="1637" height="182" key="GridCell.Tab.0.left/0.0.1680.1010@0.0.1680.1010" timestamp="1588428768472" />
-    <state width="1323" height="92" key="GridCell.Tab.0.right" timestamp="1596989373081">
+    <state width="1323" height="88" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1599972344241" />
+    <state width="1323" height="88" key="GridCell.Tab.0.center" timestamp="1599972344241">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="92" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1596989373081" />
-    <state width="1637" height="182" key="GridCell.Tab.0.right/0.0.1680.1010@0.0.1680.1010" timestamp="1588428768472" />
-    <state width="1323" height="215" key="GridCell.Tab.1.bottom" timestamp="1596905245202">
+    <state width="1323" height="88" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1599972344241" />
+    <state width="1323" height="88" key="GridCell.Tab.0.left" timestamp="1599972344241">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="215" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1596905245202" />
-    <state width="1637" height="135" key="GridCell.Tab.1.bottom/0.0.1680.1010@0.0.1680.1010" timestamp="1588428768466" />
-    <state width="1323" height="215" key="GridCell.Tab.1.center" timestamp="1596905245202">
+    <state width="1323" height="88" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1599972344241" />
+    <state width="1323" height="88" key="GridCell.Tab.0.right" timestamp="1599972344241">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="215" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1596905245202" />
-    <state width="1637" height="135" key="GridCell.Tab.1.center/0.0.1680.1010@0.0.1680.1010" timestamp="1588428768465" />
-    <state width="1323" height="215" key="GridCell.Tab.1.left" timestamp="1596905245202">
+    <state width="1323" height="88" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1599972344241" />
+    <state width="1323" height="357" key="GridCell.Tab.1.bottom" timestamp="1599929205917">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="215" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1596905245202" />
-    <state width="1637" height="135" key="GridCell.Tab.1.left/0.0.1680.1010@0.0.1680.1010" timestamp="1588428768465" />
-    <state width="1323" height="215" key="GridCell.Tab.1.right" timestamp="1596905245202">
+    <state width="1323" height="357" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1599929205917" />
+    <state width="1323" height="357" key="GridCell.Tab.1.center" timestamp="1599929205917">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="215" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1596905245202" />
-    <state width="1637" height="135" key="GridCell.Tab.1.right/0.0.1680.1010@0.0.1680.1010" timestamp="1588428768466" />
+    <state width="1323" height="357" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1599929205917" />
+    <state width="1323" height="357" key="GridCell.Tab.1.left" timestamp="1599929205917">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="357" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1599929205917" />
+    <state width="1323" height="357" key="GridCell.Tab.1.right" timestamp="1599929205917">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="357" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1599929205917" />
     <state width="220" height="477" key="HiddenNamespacesPopup" timestamp="1596987483958">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="220" height="477" key="HiddenNamespacesPopup/0.0.1366.728@0.0.1366.728" timestamp="1596987483958" />
-    <state x="163" y="0" key="SettingsEditor" timestamp="1596290369290">
+    <state x="163" y="0" key="SettingsEditor" timestamp="1598962925531">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="163" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1596290369290" />
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1596297985717">
+    <state x="163" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1598962925531" />
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1596989546227">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1596297985717" />
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1596989546227" />
     <state x="399" y="3" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog" timestamp="1596987477096">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="399" y="3" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog/0.0.1366.728@0.0.1366.728" timestamp="1596987477096" />
-    <state x="368" y="188" width="639" height="345" key="com.intellij.ide.util.TipDialog" timestamp="1596957242326">
+    <state x="368" y="188" width="639" height="345" key="com.intellij.ide.util.TipDialog" timestamp="1599966149746">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="368" y="188" width="639" height="345" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1596957242326" />
-    <state x="453" y="261" key="com.intellij.ide.util.TipDialog/0.0.1680.1010@0.0.1680.1010" timestamp="1588391711916" />
+    <state x="368" y="188" width="639" height="345" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1599966149746" />
     <state x="92" y="92" width="1182" height="544" key="dock-window-1" timestamp="1596288039481">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="92" y="92" width="1182" height="544" key="dock-window-1/0.0.1366.728@0.0.1366.728" timestamp="1596288039481" />
-    <state x="115" y="117" key="new project wizard" timestamp="1592712385306">
+    <state x="359" y="97" width="786" height="600" key="find.popup" timestamp="1599898629774">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="115" y="117" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1592712385306" />
-    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1596989153700">
+    <state x="359" y="97" width="786" height="600" key="find.popup/0.0.1366.728@0.0.1366.728" timestamp="1599898629774" />
+    <state x="115" y="117" key="new project wizard" timestamp="1597246980304">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1596989153700" />
-    <state x="426" y="68" width="827" height="941" key="search.everywhere.popup/0.0.1680.1010@0.0.1680.1010" timestamp="1588397657585" />
+    <state x="115" y="117" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1597246980304" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1599967180182">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1599967180182" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/test/Test.java</url>
-          <line>133</line>
+          <line>138</line>
           <option name="timeStamp" value="3" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
@@ -487,7 +552,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/test/Test.java</url>
-          <line>80</line>
+          <line>85</line>
           <option name="timeStamp" value="16" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
@@ -517,12 +582,12 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/test/Test.java</url>
-          <line>37</line>
+          <line>42</line>
           <option name="timeStamp" value="25" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/test/Test.java</url>
-          <line>32</line>
+          <line>37</line>
           <option name="timeStamp" value="26" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
@@ -534,6 +599,36 @@
           <url>file://$PROJECT_DIR$/src/main/java/wangyi/WY3.java</url>
           <line>28</line>
           <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/sort/MergeSort.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/sort/MergeSort.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/bishi/meituan/P3.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="36" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/bishi/tx/P4_p.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="37" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/bishi/tx/P1_o.java</url>
+          <line>54</line>
+          <option name="timeStamp" value="38" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/bishi/yfd/P1.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="39" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>jar://D:/java8/src.zip!/java/util/HashMap.java</url>
