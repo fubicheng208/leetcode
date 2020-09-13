@@ -13,8 +13,10 @@ public class Test {
 
 
         Lint562_full_cnt l3 = new Lint562_full_cnt();
-        int[] A = new int[]{2,3,6,7};
-        int target = 7;
+/*        int[] A = new int[]{2,3,6,7};
+        int target = 7;*/
+        int[] A = new int[]{1,2};
+        int target = 4;
         System.out.println(l3.backPackIV(A, target));
         System.out.println(l3.backPackIVV2(A, target));
 

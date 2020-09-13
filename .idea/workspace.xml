@@ -2,49 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="11b64349-6058-4d9c-a691-18d95007c77f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/ST.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/back_tracking/Solution51.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/bishi/b360/P1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/bishi/meituan/P1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/bishi/meituan/P2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/bishi/meituan/P3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/bishi/meituan/P4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/bishi/meituan/P4_p.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/bishi/sogou/P1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/bishi/sogou/P3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/bishi/tx/D2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/bishi/tx/P1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/bishi/tx/P1_o.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/bishi/wyAndroid/P3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/bishi/yfd/P2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/bishi/yfd/P2_T.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/bishi/yfd/P3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/dp/pack/Lint125_01_value.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/dp/pack/Lint440_full_value.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/dp/pack/Lint562_full_cnt.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/dp/pack/Lint563_01_cnt.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/dp/pack/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/duoyi/M1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pdd/P2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pdd/P3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pdd/P3_p.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pdd/P4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pdd/P4_p.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pdd/P4_p2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sort/BubbleSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sort/HeapSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sort/MergeSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sort/SelectSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sort/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sort/SortTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/stack/meitua/M1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/tx/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/JUC/consumer_provider/MyConsumerThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/JUC/consumer_provider/MyProviderThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/JUC/consumer_provider/MyService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/JUC/consumer_provider/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/JUC/countdownlatch/CountDownLatchTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/JUC/order_print/Foo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/JUC/order_print/Run.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/bishi/didi/P1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/bishi/didi/P2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/design_pattern/EagerSingleton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/design_pattern/LazySingleton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/design_pattern/LazySingletonDCL.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/sort/QuickSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sort/QuickSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/test/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/test/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/sort/QuickSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/sort/QuickSort.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/test/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/test/Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dp/pack/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dp/pack/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dp/pack/Lint562_full_cnt.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dp/pack/Lint562_full_cnt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dp/pack/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dp/pack/Test.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -138,13 +111,13 @@
       <recent name="E:\idea\MVN\src\main\java\array" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Test">
+  <component name="RunManager" selected="Application.Run">
     <configuration name="P1 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="bishi.wyAndroid.P1" />
+      <option name="MAIN_CLASS_NAME" value="bishi.didi.P1" />
       <module name="Leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="bishi.wyAndroid.*" />
+          <option name="PATTERN" value="bishi.didi.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -152,12 +125,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="P1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="bishi.yfd.P1" />
+    <configuration name="P2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="bishi.didi.P2" />
       <module name="Leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="bishi.yfd.*" />
+          <option name="PATTERN" value="bishi.didi.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -165,12 +138,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="P2 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="bishi.yfd.P2" />
+    <configuration name="Run" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JUC.order_print.Run" />
       <module name="Leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="bishi.yfd.*" />
+          <option name="PATTERN" value="JUC.order_print.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -178,12 +151,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="P3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="bishi.yfd.P3" />
+    <configuration name="Test (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JUC.consumer_provider.Test" />
       <module name="Leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="bishi.yfd.*" />
+          <option name="PATTERN" value="JUC.consumer_provider.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -191,12 +164,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="dp.pack.Test" />
+    <configuration name="Test (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JUC.order_print.Test" />
       <module name="Leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="dp.pack.*" />
+          <option name="PATTERN" value="JUC.order_print.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -206,11 +179,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Test" />
-        <item itemvalue="Application.P3" />
-        <item itemvalue="Application.P2 (1)" />
-        <item itemvalue="Application.P1" />
+        <item itemvalue="Application.Run" />
+        <item itemvalue="Application.Test (2)" />
+        <item itemvalue="Application.P2" />
         <item itemvalue="Application.P1 (1)" />
+        <item itemvalue="Application.Test (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -367,7 +340,7 @@
       <workItem from="1599561211271" duration="55000" />
       <workItem from="1599822364093" duration="5577000" />
       <workItem from="1599896436099" duration="14259000" />
-      <workItem from="1599965462528" duration="7153000" />
+      <workItem from="1599965462528" duration="22278000" />
     </task>
     <task id="LOCAL-00001" summary="20200801">
       <created>1596296633597</created>
@@ -407,14 +380,18 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="253" y="25" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1596987325518" />
-    <state x="488" y="73" key="#com.intellij.ide.util.MemberChooser" timestamp="1596370163475">
+    <state x="488" y="73" key="#com.intellij.ide.util.MemberChooser" timestamp="1600003796735">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="488" y="73" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1596370163475" />
-    <state x="403" y="289" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1597562117562">
+    <state x="488" y="73" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1600003796735" />
+    <state x="403" y="289" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1600005807734">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="403" y="289" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1366.728@0.0.1366.728" timestamp="1597562117562" />
+    <state x="403" y="289" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1366.728@0.0.1366.728" timestamp="1600005807734" />
+    <state x="462" y="222" width="441" height="293" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1599991932627">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="462" y="222" width="441" height="293" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1366.728@0.0.1366.728" timestamp="1599991932627" />
     <state x="283" y="0" key="CommitChangelistDialog2" timestamp="1596989470900">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -423,22 +400,22 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1599833202718" />
-    <state width="1323" height="88" key="GridCell.Tab.0.bottom" timestamp="1599972344241">
+    <state width="1323" height="49" key="GridCell.Tab.0.bottom" timestamp="1600005451191">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="88" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1599972344241" />
-    <state width="1323" height="88" key="GridCell.Tab.0.center" timestamp="1599972344241">
+    <state width="1323" height="49" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1600005451191" />
+    <state width="1323" height="49" key="GridCell.Tab.0.center" timestamp="1600005451191">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="88" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1599972344241" />
-    <state width="1323" height="88" key="GridCell.Tab.0.left" timestamp="1599972344241">
+    <state width="1323" height="49" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1600005451191" />
+    <state width="1323" height="49" key="GridCell.Tab.0.left" timestamp="1600005451191">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="88" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1599972344241" />
-    <state width="1323" height="88" key="GridCell.Tab.0.right" timestamp="1599972344241">
+    <state width="1323" height="49" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1600005451191" />
+    <state width="1323" height="49" key="GridCell.Tab.0.right" timestamp="1600005451191">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="88" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1599972344241" />
+    <state width="1323" height="49" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1600005451191" />
     <state width="1323" height="357" key="GridCell.Tab.1.bottom" timestamp="1599929205917">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -487,10 +464,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="115" y="117" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1597246980304" />
-    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1599967180182">
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1599999082761">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1599967180182" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1599999082761" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
