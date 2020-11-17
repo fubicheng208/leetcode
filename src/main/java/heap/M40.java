@@ -24,4 +24,5 @@ public class M40 {
         }
         return res;
     }
+
 }

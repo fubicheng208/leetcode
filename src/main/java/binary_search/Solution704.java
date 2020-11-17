@@ -1,5 +1,7 @@
 package binary_search;
 
+import java.util.Collections;
+
 public class Solution704 {
     public static int search(int[] nums, int target) {
         int l = 0;

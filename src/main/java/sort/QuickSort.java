@@ -55,4 +55,23 @@ public class QuickSort {
             quickSort2(nums, i + 1, r);
         }
     }
+
+
+    public static void quickSort3(int[] a, int l, int r){
+        int i = l;
+        int j = r;
+        if(l < r){
+            int tmp = a[i];
+            while(i < j){
+                while(i<j && a[i] >= tmp){
+                    j--;
+                }
+                if(i < j){
+                    a[i] = a[j];
+                    i++;
+                }
+            }
+        }
+    }
+
 }

@@ -1,23 +1,133 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="11b64349-6058-4d9c-a691-18d95007c77f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/JUC/consumer_provider/MyConsumerThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/JUC/consumer_provider/MyProviderThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/JUC/consumer_provider/MyService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/JUC/consumer_provider/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/JUC/countdownlatch/CountDownLatchTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/JUC/order_print/Foo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/JUC/order_print/Run.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/bishi/didi/P1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/bishi/didi/P2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/design_pattern/EagerSingleton.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/design_pattern/LazySingleton.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/design_pattern/LazySingletonDCL.java" afterDir="false" />
+    <list default="true" id="11b64349-6058-4d9c-a691-18d95007c77f" name="Default Changelist" comment="20201117">
+      <change afterPath="$PROJECT_DIR$/.idea/MVN.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/array/M860.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/array/Solution169.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/array/Solution350.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/back_tracking/M38.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/binary_search/M53_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/bishi/bytedance/P2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/bishi/jianhang/P1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/bishi/jianhang/P2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/bishi/mt/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dp/Solution91_sp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dp/pack/M14.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dp/pack/M14_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dp/stock/M121.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dp/stock/M122.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dp/stock/M123.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dp/stock/M188.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dp/stock/M309.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dp/stock/M63.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dp/stock/M714.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/fsm/M20.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/linked_list/M06.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/linked_list/M35.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/main/java/dp/Solution91_sp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/maths/M16.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/maths/M43.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/maths/M44.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/maths/M67.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/maths/Solution504.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/queue/M32.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sliding_window/M48.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sliding_window/M59.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sort/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/test/TestArrayPrint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/test/TestHashSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/test/TestListCopy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/test/TestRadix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/test/TestSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/tree/M26.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/tree/M32_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/tree/M34.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/tree/M37.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/tree/M54.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dp/pack/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dp/pack/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/dp/pack/Lint562_full_cnt.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dp/pack/Lint562_full_cnt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/dp/pack/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dp/pack/Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bishi/tx2/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/binary_search/Solution704.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/binary_search/Solution704.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/duoyi/M1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bishi/duoyi/M1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/heap/M40.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/heap/M40.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/linked_list/ListNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/linked_list/ListNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/linked_list/M18.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/linked_list/M18.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/maths/Gcd.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/maths/Gcd.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pdd/P1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bishi/pdd/P1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pdd/P2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bishi/pdd/P2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pdd/P2020.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bishi/pdd/P2020.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pdd/P2021.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bishi/pdd/P2021.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pdd/P2021_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bishi/pdd/P2021_2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pdd/P2021_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bishi/pdd/P2021_3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pdd/P3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bishi/pdd/P3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pdd/P3_p.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bishi/pdd/P3_p.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pdd/P4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bishi/pdd/P4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pdd/P4_p.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bishi/pdd/P4_p.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pdd/P4_p2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bishi/pdd/P4_p2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pdd/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bishi/pdd/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/sort/BubbleSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sort/BubbleSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/sort/HeapSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sort/HeapSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/sort/QuickSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sort/QuickSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/sort/SelectSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sort/SelectSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/sort/SortTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sort/SortTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/test/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/tree/TreeNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tree/TreeNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/tx/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bishi/tx/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/wangyi/WY1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bishi/wangyi/WY1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/wangyi/WY2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bishi/wangyi/WY2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/wangyi/WY3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bishi/wangyi/WY3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/binary_search/Solution704.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/binary_search/Solution704.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/duoyi/M1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/linked_list/ListNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/linked_list/ListNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/linked_list/M18.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/linked_list/M18.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pdd/Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pdd/P1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pdd/P2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pdd/P2020.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pdd/P2021.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pdd/P2021_2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pdd/P2021_3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pdd/P3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pdd/P3_p.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pdd/P4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pdd/P4_p.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pdd/P4_p2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pdd/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/sort/BubbleSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/sort/BubbleSort.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/sort/HeapSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/sort/HeapSort.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/sort/QuickSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/sort/QuickSort.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/sort/SortTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/sort/SortTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/test/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/tree/TreeNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/tree/TreeNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/tx/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/wangyi/WY1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/wangyi/WY2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/wangyi/WY3.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,13 +167,12 @@
     </expand>
     <select />
   </component>
-  <component name="FavoritesManager">
-    <favorites_list name="Leetcode" />
-  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="FxmlFile" />
+        <option value="AnnotationType" />
+        <option value="JavaFXApplication" />
         <option value="Class" />
       </list>
     </option>
@@ -72,10 +181,10 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenImportPreferences">
-    <option name="importingSettings">
-      <MavenImportingSettings>
-        <option name="importAutomatically" value="true" />
-      </MavenImportingSettings>
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:\idea\IntelliJ IDEA 2020.2.3\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
     </option>
   </component>
   <component name="ProjectCodeStyleSettingsMigration">
@@ -84,40 +193,51 @@
   <component name="ProjectId" id="1WvyJ0L9Jq7sewQsqinRAQIxvWT" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../test2" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="dp" />
       <recent name="bishi.tx" />
       <recent name="bishi.meituan" />
       <recent name="pdd" />
       <recent name="bishi.yinke" />
-      <recent name="search_tree" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="E:\idea\MVN\src\main\java\array" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Run">
-    <configuration name="P1 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="bishi.didi.P1" />
+  <component name="RunManager" selected="Application.TestHashSet">
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Test" />
+      <module name="Leetcode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestArrayPrint" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test.TestArrayPrint" />
       <module name="Leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="bishi.didi.*" />
+          <option name="PATTERN" value="test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -125,12 +245,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="P2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="bishi.didi.P2" />
+    <configuration name="TestHashSet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test.TestHashSet" />
       <module name="Leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="bishi.didi.*" />
+          <option name="PATTERN" value="test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -138,12 +258,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Run" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JUC.order_print.Run" />
+    <configuration name="TestListCopy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test.TestListCopy" />
       <module name="Leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="JUC.order_print.*" />
+          <option name="PATTERN" value="test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -151,12 +271,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JUC.consumer_provider.Test" />
+    <configuration name="TestRadix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test.TestRadix" />
       <module name="Leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="JUC.consumer_provider.*" />
+          <option name="PATTERN" value="test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -164,56 +284,28 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JUC.order_print.Test" />
-      <module name="Leetcode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="JUC.order_print.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Run" />
-        <item itemvalue="Application.Test (2)" />
-        <item itemvalue="Application.P2" />
-        <item itemvalue="Application.P1 (1)" />
-        <item itemvalue="Application.Test (1)" />
+        <item itemvalue="Application.TestHashSet" />
+        <item itemvalue="Application.TestRadix" />
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.TestArrayPrint" />
+        <item itemvalue="Application.TestListCopy" />
       </list>
     </recent_temporary>
   </component>
-  <component name="ServiceViewManager">
-    <option name="viewStates">
-      <list>
-        <serviceView>
-          <treeState>
-            <expand>
-              <path>
-                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
-                <item name="root:testdb@localhost" type="7427dc5b:ServiceModel$ServiceGroupNode" />
-              </path>
-              <path>
-                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
-                <item name="root:testdb@localhost" type="7427dc5b:ServiceModel$ServiceGroupNode" />
-                <item name="com.intellij.database.console.session.MessageBusSession@64304093" type="9fbbdea:ServiceModel$ServiceNode" />
-              </path>
-              <path>
-                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
-                <item name="root:testdb@localhost" type="7427dc5b:ServiceModel$ServiceGroupNode" />
-                <item name="com.intellij.database.console.session.MessageBusSession@23a67191" type="9fbbdea:ServiceModel$ServiceNode" />
-              </path>
-            </expand>
-            <select />
-          </treeState>
-        </serviceView>
-      </list>
-    </option>
-  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -340,7 +432,25 @@
       <workItem from="1599561211271" duration="55000" />
       <workItem from="1599822364093" duration="5577000" />
       <workItem from="1599896436099" duration="14259000" />
-      <workItem from="1599965462528" duration="22278000" />
+      <workItem from="1599965462528" duration="26361000" />
+      <workItem from="1600083110687" duration="6990000" />
+      <workItem from="1600357592050" duration="13752000" />
+      <workItem from="1600575920384" duration="4079000" />
+      <workItem from="1600688160157" duration="2330000" />
+      <workItem from="1600995144812" duration="1703000" />
+      <workItem from="1601207676343" duration="3653000" />
+      <workItem from="1601562553288" duration="13779000" />
+      <workItem from="1601694516409" duration="1004000" />
+      <workItem from="1601727501703" duration="36127000" />
+      <workItem from="1602380971617" duration="645000" />
+      <workItem from="1602574212437" duration="9505000" />
+      <workItem from="1603297938706" duration="593000" />
+      <workItem from="1603369864961" duration="1248000" />
+      <workItem from="1603630115750" duration="481000" />
+      <workItem from="1604676317789" duration="581000" />
+      <workItem from="1604721065334" duration="1176000" />
+      <workItem from="1604911898621" duration="1039000" />
+      <workItem from="1605613845102" duration="1653000" />
     </task>
     <task id="LOCAL-00001" summary="20200801">
       <created>1596296633597</created>
@@ -367,31 +477,43 @@
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="20200801" />
     <MESSAGE value="20200802" />
     <MESSAGE value="拼多多+网易+插入排序" />
-    <option name="LAST_COMMIT_MESSAGE" value="拼多多+网易+插入排序" />
+    <MESSAGE value="20201117" />
+    <option name="LAST_COMMIT_MESSAGE" value="20201117" />
   </component>
   <component name="WindowStateProjectService">
     <state x="253" y="25" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1596987325518">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="253" y="25" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1596987325518" />
-    <state x="488" y="73" key="#com.intellij.ide.util.MemberChooser" timestamp="1600003796735">
+    <state x="488" y="73" key="#com.intellij.ide.util.MemberChooser" timestamp="1600446610227">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="488" y="73" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1600003796735" />
-    <state x="403" y="289" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1600005807734">
+    <state x="488" y="73" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1600446610227" />
+    <state x="403" y="289" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1601649666479">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="403" y="289" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1366.728@0.0.1366.728" timestamp="1600005807734" />
-    <state x="462" y="222" width="441" height="293" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1599991932627">
+    <state x="403" y="289" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1366.728@0.0.1366.728" timestamp="1601649666479" />
+    <state x="462" y="222" width="441" height="293" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1601649774479">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="462" y="222" width="441" height="293" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1366.728@0.0.1366.728" timestamp="1599991932627" />
+    <state x="462" y="222" width="441" height="293" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1366.728@0.0.1366.728" timestamp="1601649774479" />
     <state x="283" y="0" key="CommitChangelistDialog2" timestamp="1596989470900">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -400,86 +522,93 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1599833202718" />
-    <state width="1323" height="49" key="GridCell.Tab.0.bottom" timestamp="1600005451191">
+    <state x="651" y="424" key="Github.CreateGistDialog" timestamp="1605616208753">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="651" y="424" key="Github.CreateGistDialog/0.0.1680.1010@0.0.1680.1010" timestamp="1605616208753" />
+    <state width="1323" height="163" key="GridCell.Tab.0.bottom" timestamp="1602606697938">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="49" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1600005451191" />
-    <state width="1323" height="49" key="GridCell.Tab.0.center" timestamp="1600005451191">
+    <state width="1323" height="163" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1602606697938" />
+    <state width="1323" height="163" key="GridCell.Tab.0.center" timestamp="1602606697938">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="49" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1600005451191" />
-    <state width="1323" height="49" key="GridCell.Tab.0.left" timestamp="1600005451191">
+    <state width="1323" height="163" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1602606697938" />
+    <state width="1323" height="163" key="GridCell.Tab.0.left" timestamp="1602606697938">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="49" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1600005451191" />
-    <state width="1323" height="49" key="GridCell.Tab.0.right" timestamp="1600005451191">
+    <state width="1323" height="163" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1602606697938" />
+    <state width="1323" height="163" key="GridCell.Tab.0.right" timestamp="1602606697938">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="49" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1600005451191" />
-    <state width="1323" height="357" key="GridCell.Tab.1.bottom" timestamp="1599929205917">
+    <state width="1323" height="163" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1602606697938" />
+    <state width="1323" height="163" key="GridCell.Tab.1.bottom" timestamp="1602606697938">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="357" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1599929205917" />
-    <state width="1323" height="357" key="GridCell.Tab.1.center" timestamp="1599929205917">
+    <state width="1323" height="163" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1602606697938" />
+    <state width="1323" height="163" key="GridCell.Tab.1.center" timestamp="1602606697938">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="357" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1599929205917" />
-    <state width="1323" height="357" key="GridCell.Tab.1.left" timestamp="1599929205917">
+    <state width="1323" height="163" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1602606697938" />
+    <state width="1323" height="163" key="GridCell.Tab.1.left" timestamp="1602606697938">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="357" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1599929205917" />
-    <state width="1323" height="357" key="GridCell.Tab.1.right" timestamp="1599929205917">
+    <state width="1323" height="163" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1602606697938" />
+    <state width="1323" height="163" key="GridCell.Tab.1.right" timestamp="1602606697938">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="357" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1599929205917" />
+    <state width="1323" height="163" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1602606697938" />
     <state width="220" height="477" key="HiddenNamespacesPopup" timestamp="1596987483958">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="220" height="477" key="HiddenNamespacesPopup/0.0.1366.728@0.0.1366.728" timestamp="1596987483958" />
-    <state x="163" y="0" key="SettingsEditor" timestamp="1598962925531">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state x="215" y="11" key="SettingsEditor" timestamp="1605616262695">
+      <screen x="0" y="0" width="1680" height="1010" />
     </state>
-    <state x="163" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1598962925531" />
+    <state x="175" y="8" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1601975842152" />
+    <state x="215" y="11" key="SettingsEditor/0.0.1680.1010@0.0.1680.1010" timestamp="1605616262695" />
     <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1596989546227">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1596989546227" />
+    <state x="639" y="282" key="chooseDestDirectoryDialog" timestamp="1605615541953">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="639" y="282" key="chooseDestDirectoryDialog/0.0.1680.1010@0.0.1680.1010" timestamp="1605615541953" />
     <state x="399" y="3" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog" timestamp="1596987477096">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="399" y="3" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog/0.0.1366.728@0.0.1366.728" timestamp="1596987477096" />
-    <state x="368" y="188" width="639" height="345" key="com.intellij.ide.util.TipDialog" timestamp="1599966149746">
+    <state x="368" y="188" width="639" height="345" key="com.intellij.ide.util.TipDialog" timestamp="1601562825567">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="368" y="188" width="639" height="345" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1599966149746" />
-    <state x="92" y="92" width="1182" height="544" key="dock-window-1" timestamp="1596288039481">
+    <state x="368" y="188" width="639" height="345" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1601562825567" />
+    <state x="359" y="97" width="786" height="600" key="find.popup" timestamp="1601974757568">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="92" y="92" width="1182" height="544" key="dock-window-1/0.0.1366.728@0.0.1366.728" timestamp="1596288039481" />
-    <state x="359" y="97" width="786" height="600" key="find.popup" timestamp="1599898629774">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="359" y="97" width="786" height="600" key="find.popup/0.0.1366.728@0.0.1366.728" timestamp="1599898629774" />
-    <state x="115" y="117" key="new project wizard" timestamp="1597246980304">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state x="359" y="97" width="786" height="600" key="find.popup/0.0.1366.728@0.0.1366.728" timestamp="1601974757568" />
+    <state x="141" y="162" key="new project wizard" timestamp="1605614118263">
+      <screen x="0" y="0" width="1680" height="1010" />
     </state>
     <state x="115" y="117" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1597246980304" />
-    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1599999082761">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state x="141" y="162" key="new project wizard/0.0.1680.1010@0.0.1680.1010" timestamp="1605614118263" />
+    <state x="426" y="68" width="827" height="941" key="search.everywhere.popup" timestamp="1605615770253">
+      <screen x="0" y="0" width="1680" height="1010" />
     </state>
-    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1599999082761" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1601826292452" />
+    <state x="426" y="68" width="827" height="941" key="search.everywhere.popup/0.0.1680.1010@0.0.1680.1010" timestamp="1605615770253" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/test/Test.java</url>
-          <line>138</line>
+          <url>file://$PROJECT_DIR$/src/main/java/Test.java</url>
+          <line>145</line>
           <option name="timeStamp" value="3" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/binary_search/Solution704.java</url>
-          <line>7</line>
+          <line>9</line>
           <option name="timeStamp" value="4" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
@@ -508,7 +637,7 @@
           <option name="timeStamp" value="10" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/Main.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/bishi/tx2/Main.java</url>
           <line>35</line>
           <option name="timeStamp" value="12" />
         </line-breakpoint>
@@ -528,8 +657,8 @@
           <option name="timeStamp" value="15" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/test/Test.java</url>
-          <line>85</line>
+          <url>file://$PROJECT_DIR$/src/main/java/Test.java</url>
+          <line>92</line>
           <option name="timeStamp" value="16" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
@@ -558,22 +687,22 @@
           <option name="timeStamp" value="24" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/test/Test.java</url>
-          <line>42</line>
+          <url>file://$PROJECT_DIR$/src/main/java/Test.java</url>
+          <line>49</line>
           <option name="timeStamp" value="25" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/test/Test.java</url>
-          <line>37</line>
+          <url>file://$PROJECT_DIR$/src/main/java/Test.java</url>
+          <line>44</line>
           <option name="timeStamp" value="26" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/pdd/P2021_3.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/bishi/pdd/P2021_3.java</url>
           <line>25</line>
           <option name="timeStamp" value="30" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/wangyi/WY3.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/bishi/wangyi/WY3.java</url>
           <line>28</line>
           <option name="timeStamp" value="31" />
         </line-breakpoint>
@@ -606,6 +735,36 @@
           <url>file://$PROJECT_DIR$/src/main/java/bishi/yfd/P1.java</url>
           <line>16</line>
           <option name="timeStamp" value="39" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/binary_search/M11.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="42" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/dp/stock/M188.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="44" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/test/TestHashSet.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="48" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/test/TestHashSet.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="56" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://D:/java8/src.zip!/java/util/HashMap.java</url>
+          <line>626</line>
+          <option name="timeStamp" value="58" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://D:/java8/src.zip!/java/util/HashMap.java</url>
+          <line>627</line>
+          <option name="timeStamp" value="59" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>jar://D:/java8/src.zip!/java/util/HashMap.java</url>
