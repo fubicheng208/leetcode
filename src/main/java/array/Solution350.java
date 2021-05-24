@@ -30,24 +30,24 @@ public class Solution350 {
 
     public int[] intersect(int[] nums1, int[] nums2) {
         HashMap<Integer, Integer> hm = new HashMap<>();
-        for(int num : nums1){
+        for (int num : nums1) {
             int cnt = hm.getOrDefault(num, 0);
             hm.put(num, cnt + 1);
         }
         List<Integer> tmp = new ArrayList<>();
-        for(int num : nums2){
-            int cnt = hm.getOrDefault(num,0);
-            if(cnt != 0){
-                if(cnt > 1){
+        for (int num : nums2) {
+            int cnt = hm.getOrDefault(num, 0);
+            if (cnt != 0) {
+                if (cnt > 1) {
                     hm.put(num, cnt - 1);
-                }else{
+                } else {
                     hm.remove(num);
                 }
                 tmp.add(num);
             }
         }
         int[] res = new int[tmp.size()];
-        for(int i = 0; i < tmp.size(); i++){
+        for (int i = 0; i < tmp.size(); i++) {
             res[i] = tmp.get(i);
         }
         return res;

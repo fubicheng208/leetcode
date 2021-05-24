@@ -10,8 +10,8 @@ public class Main {
 //        System.out.println(p3.getPasswordCount("3"));
 
         P1 p1 = new P1();
-        System.out.println(p1.numberofprize(4,4,2));
-        System.out.println(p1.numberofprize(9,3,3));
+        System.out.println(p1.numberofprize(4, 4, 2));
+        System.out.println(p1.numberofprize(9, 3, 3));
 
     }
 }

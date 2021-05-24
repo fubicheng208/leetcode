@@ -1,11 +1,10 @@
 package bishi.yinke;
 
 
-
 public class p2 {
-    public ListNode mergeKLists (ListNode[] lists) {
+    public ListNode mergeKLists(ListNode[] lists) {
         // write code here
-        if(lists == null || lists.length == 0)
+        if (lists == null || lists.length == 0)
             return null;
         return merge(lists, 0, lists.length - 1);
 
@@ -16,11 +15,11 @@ public class p2 {
         return ans;*/
     }
 
-    public ListNode merge(ListNode[] lists, int l, int r){
-        if(l == r){
+    public ListNode merge(ListNode[] lists, int l, int r) {
+        if (l == r) {
             return lists[l];
         }
-        if(l > r){
+        if (l > r) {
             return null;
         }
         int mid = (l + r) >> 1;
@@ -30,11 +29,11 @@ public class p2 {
     public ListNode mergeTwoLists(ListNode l1, ListNode l2) {
         ListNode i1 = l1, i2 = l2;
         ListNode head = new ListNode(-1), cur = head;
-        while(i1 != null && i2 != null){
-            if(i1.val < i2.val){
+        while (i1 != null && i2 != null) {
+            if (i1.val < i2.val) {
                 cur.next = i1;
                 i1 = i1.next;
-            }else{
+            } else {
                 cur.next = i2;
                 i2 = i2.next;
             }

@@ -13,10 +13,10 @@ public class P3 {
             c[i] = scanner.nextInt();
             v[i] = scanner.nextInt();
         }
-        int[] dp = new int[m+1];
+        int[] dp = new int[m + 1];
         for (int i = 0; i < n; i++) {
-            for (int j = m; j > c[i] - 1 ; j--) {
-                dp[j] = Math.max(dp[j - c[i]] + v[i],dp[j]);
+            for (int j = m; j > c[i] - 1; j--) {
+                dp[j] = Math.max(dp[j - c[i]] + v[i], dp[j]);
             }
         }
         System.out.println(dp[m]);

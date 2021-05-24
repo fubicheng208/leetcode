@@ -29,23 +29,23 @@ public class QuickSort {
             quickSort(nums, i, r);
     }
 
-    public static void quickSort2(int[] nums, int l, int r){
+    public static void quickSort2(int[] nums, int l, int r) {
         int tmp;
         int i = l, j = r;
-        if(l < r){
+        if (l < r) {
             tmp = nums[l];
-            while(i < j){
-                while(j > i && nums[j] >= tmp){
+            while (i < j) {
+                while (j > i && nums[j] >= tmp) {
                     j--;
                 }
-                if(i < j){
+                if (i < j) {
                     nums[i] = nums[j];
                     i++;
                 }
-                while(i < j && nums[i] <= tmp){
+                while (i < j && nums[i] <= tmp) {
                     i++;
                 }
-                if(i < j){
+                if (i < j) {
                     nums[j] = nums[i];
                     j--;
                 }
@@ -57,16 +57,16 @@ public class QuickSort {
     }
 
 
-    public static void quickSort3(int[] a, int l, int r){
+    public static void quickSort3(int[] a, int l, int r) {
         int i = l;
         int j = r;
-        if(l < r){
+        if (l < r) {
             int tmp = a[i];
-            while(i < j){
-                while(i<j && a[i] >= tmp){
+            while (i < j) {
+                while (i < j && a[i] >= tmp) {
                     j--;
                 }
-                if(i < j){
+                if (i < j) {
                     a[i] = a[j];
                     i++;
                 }

@@ -20,31 +20,30 @@ public class WY2 {
         }
         boolean first = true;
         int pos = 0;
-        for (int i = 1; i <= n ; i++) {
-            if(exist[i] == 1){
+        for (int i = 1; i <= n; i++) {
+            if (exist[i] == 1) {
                 continue;
             }
-            while(pos < ls.size() && ls.get(pos) < i){
-                if(first){
+            while (pos < ls.size() && ls.get(pos) < i) {
+                if (first) {
                     first = false;
-                }
-                else{
+                } else {
                     System.out.printf(" ");
                 }
-                System.out.printf(""+ls.get(pos++));
+                System.out.printf("" + ls.get(pos++));
             }
-            if(first)
+            if (first)
                 first = false;
             else
                 System.out.printf(" ");
-            System.out.printf(i+"");
+            System.out.printf(i + "");
         }
-        while(pos < ls.size()){
-            if(first)
+        while (pos < ls.size()) {
+            if (first)
                 first = false;
             else
                 System.out.printf(" ");
-            System.out.printf(""+ls.get(pos++));
+            System.out.printf("" + ls.get(pos++));
         }
         System.out.println();
     }

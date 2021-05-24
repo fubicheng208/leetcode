@@ -21,12 +21,12 @@ public class P1 {
         }
 
         Set<Integer> s1T = new HashSet<>();
-        for(Integer a : s1){
+        for (Integer a : s1) {
             s1T.add(a);
         }
 
         Set<Integer> s2T = new HashSet<>();
-        for(Integer a : s2){
+        for (Integer a : s2) {
             s2T.add(a);
         }
 

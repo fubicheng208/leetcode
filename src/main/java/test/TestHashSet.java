@@ -21,8 +21,8 @@ public class TestHashSet {
         System.out.println(hs.add(n2));
         System.out.println(hs.size());
         Iterator<ListNode> iterator = hs.iterator();
-        while(iterator.hasNext()){
-            ListNode n = (ListNode)iterator.next();
+        while (iterator.hasNext()) {
+            ListNode n = (ListNode) iterator.next();
             System.out.println(n.toString());
         }
     }

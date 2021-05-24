@@ -8,11 +8,12 @@ public class M14 {
     链接：https://leetcode-cn.com/problems/jian-sheng-zi-lcof*/
 
     //完全背包问题，物品大小为1,2,...,n-1
-    public int cuttingRope(int n) {        int[] dp = new int[n+1];
+    public int cuttingRope(int n) {
+        int[] dp = new int[n + 1];
         dp[0] = 1;
         //用1-i的切分方法，切分长度为j的绳子，能获得最大的乘积
-        for(int i = 1; i < n; i++){
-            for(int j = i; j <= n; j++){
+        for (int i = 1; i < n; i++) {
+            for (int j = i; j <= n; j++) {
                 dp[j] = Math.max(dp[j], dp[j - i] * i);
             }
         }

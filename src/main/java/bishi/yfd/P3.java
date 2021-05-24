@@ -10,7 +10,7 @@ public class P3 {
         for (int i = 0; i < n; i++) {
             String s = sc.next();
             Random random = new Random();
-            System.out.println((int)random.nextInt(2));
+            System.out.println((int) random.nextInt(2));
         }
     }
 }

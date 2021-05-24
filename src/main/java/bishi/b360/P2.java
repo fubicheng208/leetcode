@@ -20,29 +20,29 @@ public class P2 {
 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-        while(sc.hasNextLine()){
+        while (sc.hasNextLine()) {
             String s = sc.nextLine();
-            if(s.length() < 8 || !check(s)){
+            if (s.length() < 8 || !check(s)) {
                 System.out.println("Irregular password");
-            }else{
+            } else {
                 System.out.println("Ok");
             }
         }
     }
 
-    public static boolean check(String s){
+    public static boolean check(String s) {
         boolean hasNumber = false;
         boolean hasUpper = false;
         boolean hasLower = false;
         boolean hasSpecial = false;
-        for(char c : s.toCharArray()){
-            if(c >= '0' && c <= '9'){
+        for (char c : s.toCharArray()) {
+            if (c >= '0' && c <= '9') {
                 hasNumber = true;
-            }else if(c >= 'a' && c <= 'z'){
+            } else if (c >= 'a' && c <= 'z') {
                 hasLower = true;
-            }else if(c >= 'A' && c <= 'Z'){
+            } else if (c >= 'A' && c <= 'Z') {
                 hasUpper = true;
-            }else{
+            } else {
                 hasSpecial = true;
             }
         }

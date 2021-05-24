@@ -13,21 +13,21 @@ public class Main {
         System.out.println(res);
     }
 
-    public static String findStr(char[] cs, String s){
+    public static String findStr(char[] cs, String s) {
         String res = "";
         HashSet<Character> set = new HashSet<>();
-        for(Character c : cs){
+        for (Character c : cs) {
             set.add(c);
         }
-        for(int i = 0; i < s.length(); i++){
+        for (int i = 0; i < s.length(); i++) {
             HashSet<Character> tmp = new HashSet<>();
             tmp.addAll(set);
-            for(int j = i; j < i + cs.length; j++){
-                if(tmp.contains(s.charAt(j))){
+            for (int j = i; j < i + cs.length; j++) {
+                if (tmp.contains(s.charAt(j))) {
                     tmp.remove(s.charAt(j));
                 }
             }
-            if(tmp.size() == 0){
+            if (tmp.size() == 0) {
                 res = s.substring(i, i + cs.length);
                 break;
             }

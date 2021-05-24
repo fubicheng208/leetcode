@@ -10,9 +10,9 @@ public class TestListCopy {
         ls.remove(new Integer(1));
         ls.add(1);
         ls.add(2);
-        int[] a = new int[]{1,2};
+        int[] a = new int[]{1, 2};
         List<Integer> ls2 = new ArrayList(ls);
-        ls.set(0,999);
+        ls.set(0, 999);
         System.out.println(ls.toString());
         System.out.println(ls2.toString());
 

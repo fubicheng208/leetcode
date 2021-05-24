@@ -11,12 +11,12 @@ public class M43 {
         int digit = 1, res = 0;
         int high = n / 10, cur = n % 10, low = 0;
         //当high和cur同时为0时说明全为low,即已越界
-        while(high != 0 || cur != 0){
-            if(cur == 0){
+        while (high != 0 || cur != 0) {
+            if (cur == 0) {
                 res += high * digit;
-            }else if(cur == 1){
+            } else if (cur == 1) {
                 res += high * digit + low + 1;
-            }else{
+            } else {
                 res += (high + 1) * digit;
             }
             low += cur * digit;

@@ -11,59 +11,60 @@ public class Run {
     final private static Condition conditionA = lock.newCondition();
     final private static Condition conditionB = lock.newCondition();
     final private static Condition conditionC = lock.newCondition();
+
     public static void main(String[] args) {
-        Thread t1 = new Thread(){
+        Thread t1 = new Thread() {
             @Override
             public void run() {
-                try{
+                try {
                     lock.lock();
-                    while(nextPrintWho != 1){
+                    while (nextPrintWho != 1) {
                         conditionA.await();
                     }
                     System.out.println("Thread1");
                     nextPrintWho = 2;
                     conditionA.signalAll();
-                }catch (InterruptedException e){
+                } catch (InterruptedException e) {
                     e.printStackTrace();
-                }finally {
+                } finally {
                     lock.unlock();
                 }
             }
         };
 
-        Thread t2 = new Thread(){
+        Thread t2 = new Thread() {
             @Override
             public void run() {
-                try{
+                try {
                     lock.lock();
-                    while(nextPrintWho != 2){
+                    while (nextPrintWho != 2) {
                         conditionB.await();
                     }
                     System.out.println("Thread2");
                     nextPrintWho = 3;
                     conditionB.signalAll();
-                }catch (InterruptedException e){
+                } catch (InterruptedException e) {
                     e.printStackTrace();
-                }finally {
+                } finally {
                     lock.unlock();
                 }
             }
         };
 
-        Thread t3 = new Thread(){
+        Thread t3 = new Thread() {
             @Override
             public void run() {
-                try{
+                try {
                     lock.lock();
-                    while(nextPrintWho != 3){
+                    while (nextPrintWho != 3) {
                         conditionC.await();
                     }
                     System.out.println("Thread3");
                     nextPrintWho = 1;
                     conditionC.signalAll();
-                }catch (InterruptedException e){
+                } catch (InterruptedException e) {
                     e.printStackTrace();
-                }finally {
+                } finally {
                     lock.unlock();
                 }
             }

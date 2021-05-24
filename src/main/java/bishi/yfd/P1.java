@@ -17,11 +17,11 @@ public class P1 {
             int[] tmp = new int[n];
             int half = n / 2;
             int index = 0;
-            for (int j = 0; j < half; j+=1) {
+            for (int j = 0; j < half; j += 1) {
                 tmp[index++] = res[j + half];
                 tmp[index++] = res[j];
             }
-            if(n % 2 == 1){
+            if (n % 2 == 1) {
                 tmp[tmp.length - 1] = res[res.length - 1];
             }
             res = tmp;

@@ -1,37 +1,47 @@
-import array.M21;
-import array.Solution1162;
-import array.Solution820;
-import array.Solution914;
-import bit_manipulation.Solution231;
-import divide_conquer.Solution169;
-import dp.M1716;
-import dp.stock.M188;
-import greedy.Solution56;
-import hash.Solution1;
-import hash.Solution15;
-import hash.Solution349;
-import heap.Solution215;
-import maths.Gcd;
-import maths.Solution190;
-import maths.Solution7;
-import sort.QuickSort;
-import sort.Solution912;
-import stack.Solution42;
-import string.M50;
-
-import javax.xml.bind.SchemaOutputResolver;
-import java.util.Arrays;
-import java.util.HashSet;
-import java.util.List;
-import java.util.PriorityQueue;
+import java.lang.*;
 
 public class Test {
     public static void main(String[] params) {
-        int[] nums = new int[]{2,1,2,0,1};
+
+
+
+/*
+        LRUCache lruCache = new LRUCache(2);
+        lruCache.put(1,1);
+        lruCache.put(2,2);
+        lruCache.get(1);
+        lruCache.put(3,3);
+        lruCache.get(2);
+        lruCache.put(4,4);
+        lruCache.get(1);
+        lruCache.get(3);
+        lruCache.get(4);
+*/
+
+
+
+
+/*        Solution40 c = new Solution40();
+        c.combinationSum2(new int[]{1,2}, 4);*/
+
+
+//        String s = "AaBb//a";
+//        Jindian01_04 j = new Jindian01_04();
+//        System.out.println(j.canPermutePalindrome(s));
+
+
+//        int[] push = new int[]{1,2,3,4,5};
+//        int[] pop = new int[]{4,5,3,2,1};
+//        M31 m31 = new M31();
+//        System.out.println(m31.validateStackSequences(push, pop));
+
+//        M10 m = new M10();
+//        System.out.println(m.numWays(7));
+/*        int[] nums = new int[]{2,1,2,0,1};
         int k = 2;
         HashSet<Integer> hs = new HashSet<>();
         M188 m = new M188();
-        System.out.println(m.maxProfit(k, nums));
+        System.out.println(m.maxProfit(k, nums));*/
 
 
 /*//        int[] nums = new int[]{2,2,2,0,1};

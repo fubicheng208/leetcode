@@ -31,6 +31,7 @@ public class CountDownLatchTest {
         public SubThread(String name) {
             this.name = name;
         }
+
         @Override
         public void run() {
             try {

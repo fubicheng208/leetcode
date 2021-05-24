@@ -3,6 +3,7 @@ package bishi.yinke;
 public class P1 {
     /**
      * 是否可以到达
+     *
      * @param nums int整型一维数组 保存可移动步长的数组
      * @return bool布尔型
      */
@@ -17,14 +18,12 @@ public class P1 {
         }
         return true;
     }*/
-
-
-    public boolean canJump (int[] nums) {
+    public boolean canJump(int[] nums) {
         int n = nums.length;
         int fastest = nums[0];
-        for(int i = 0; i <= fastest; i++){
-            fastest = Math.max(fastest,i + nums[i]);
-            if(fastest >= n){
+        for (int i = 0; i <= fastest; i++) {
+            fastest = Math.max(fastest, i + nums[i]);
+            if (fastest >= n) {
                 return true;
             }
         }

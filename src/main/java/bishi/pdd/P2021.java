@@ -8,7 +8,7 @@ public class P2021 {
         Scanner scanner = new Scanner(System.in);
         d = scanner.nextInt();
         t = scanner.nextInt();
-        if(d == 0) {
+        if (d == 0) {
             System.out.println("paradox");
             return;
         }
@@ -17,11 +17,11 @@ public class P2021 {
             scores[i] = scanner.nextInt();
         }
         int returnTimes = 0;
-        for(int score : scores){
-            if(d - score == 0){
+        for (int score : scores) {
+            if (d - score == 0) {
                 System.out.println("paradox");
                 return;
-            } else if(d - score < 0){
+            } else if (d - score < 0) {
                 d = score - d;
                 returnTimes++;
             } else {

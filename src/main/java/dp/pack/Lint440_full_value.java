@@ -9,15 +9,15 @@ public class Lint440_full_value {
 
 
     public int backPackIII(int m, int[] A, int[] V) {
-        int[][] dp = new int[A.length + 1][m+1];
+        int[][] dp = new int[A.length + 1][m + 1];
         for (int i = 1; i <= A.length; i++) {
-            for (int j = A[i-1]; j <= m; j++) {
-                for (int k = 0; k * A[i-1] <= m; k++) {
+            for (int j = A[i - 1]; j <= m; j++) {
+                for (int k = 0; k * A[i - 1] <= m; k++) {
                     //如果当前的容量可以放k个
-                    if(j >= k * A[i-1]){
-                        dp[i][j] = Math.max(dp[i-1][j], dp[i-1][j - k * A[i-1]] + k * V[i-1]);
-                    }else{
-                        dp[i][j] = dp[i-1][j];
+                    if (j >= k * A[i - 1]) {
+                        dp[i][j] = Math.max(dp[i - 1][j], dp[i - 1][j - k * A[i - 1]] + k * V[i - 1]);
+                    } else {
+                        dp[i][j] = dp[i - 1][j];
                     }
                 }
             }
@@ -26,13 +26,13 @@ public class Lint440_full_value {
     }
 
     public int backPackIIIV2(int m, int[] A, int[] V) {
-        int[][] dp = new int[A.length + 1][m+1];
+        int[][] dp = new int[A.length + 1][m + 1];
         for (int i = 1; i <= A.length; i++) {
             for (int j = 0; j <= m; j++) {
-                if(A[i-1] > j){
-                    dp[i][j] = dp[i-1][j];
-                }else{
-                    dp[i][j] = Math.max(dp[i-1][j], dp[i][j-A[i-1]] + V[i-1]);
+                if (A[i - 1] > j) {
+                    dp[i][j] = dp[i - 1][j];
+                } else {
+                    dp[i][j] = Math.max(dp[i - 1][j], dp[i][j - A[i - 1]] + V[i - 1]);
                 }
             }
         }
@@ -40,7 +40,7 @@ public class Lint440_full_value {
     }
 
     public int backPackIIIV3(int m, int[] A, int[] V) {
-        int[] dp = new int[m+1];
+        int[] dp = new int[m + 1];
         for (int i = 0; i < A.length; i++) {
             for (int j = A[i]; j <= m; j++) {
                 dp[j] = Math.max(dp[j], dp[j - A[i]] + V[i]);

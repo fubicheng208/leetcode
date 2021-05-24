@@ -1,5 +1,7 @@
 package sort;
 
+import java.util.HashMap;
+
 public class HeapSort {
     public static void heapSort(int[] R, int n) {
         //数组从1开始存储
@@ -38,8 +40,8 @@ public class HeapSort {
         R[i] = tmp;
     }
 
-    public static void heapSort2(int[] R, int n){
-        for (int i = n/2; i >= 1 ; i--) {
+    public static void heapSort2(int[] R, int n) {
+        for (int i = n / 2; i >= 1; i--) {
             sift(R, i, n);
         }
         for (int i = n; i >= 2; i--) {
@@ -51,18 +53,18 @@ public class HeapSort {
     }
 
     //调整大顶堆堆顶到合适位置
-    public static void sift2(int[] R, int low, int high){
+    public static void sift2(int[] R, int low, int high) {
         int i = low, j = 2 * i;
         int tmp = R[i];
-        while(j <= high){
-            if(j != high && R[j+1] > R[j]){
+        while (j <= high) {
+            if (j != high && R[j + 1] > R[j]) {
                 j++;
             }
-            if(tmp < R[j]){
+            if (tmp < R[j]) {
                 R[i] = R[j];
                 i = j;
                 j = 2 * i;
-            }else{
+            } else {
                 break;
             }
         }

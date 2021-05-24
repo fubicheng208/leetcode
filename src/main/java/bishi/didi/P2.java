@@ -6,7 +6,7 @@ import java.util.List;
 import java.util.Scanner;
 
 public class P2 {
-    static class Node{
+    static class Node {
         public int a, b;
         public int dis;
 
@@ -28,14 +28,14 @@ public class P2 {
             int k = sc.nextInt();
             int[] fa = new int[n + 1];
             List<Node> ls = new ArrayList<>();
-            for (int j = 0; j <= n ; j++) {
+            for (int j = 0; j <= n; j++) {
                 fa[j] = j;
             }
             for (int j = 0; j < m; j++) {
                 int a = sc.nextInt();
                 int b = sc.nextInt();
                 int d = sc.nextInt();
-                if( d <= k){
+                if (d <= k) {
                     ls.add(new Node(a, b, d));
                 }
             }
@@ -46,34 +46,34 @@ public class P2 {
                 }
             });
             int ans = 0;
-            for(Node d : ls){
+            for (Node d : ls) {
                 ans += mergeFa(d.a, d.b, fa);
             }
-            if(ans >= n-1){
+            if (ans >= n - 1) {
                 System.out.println("Yes");
-            }else{
+            } else {
                 System.out.println("No");
             }
         }
     }
 
-    static int findFa(int x, int[] fa){
-        if(fa[x] == x){
+    static int findFa(int x, int[] fa) {
+        if (fa[x] == x) {
             return x;
         }
         return fa[x] = findFa(fa[x], fa);
     }
 
-    static int mergeFa(int x, int y, int[] fa){
+    static int mergeFa(int x, int y, int[] fa) {
         //找到根节点
         int fx = findFa(x, fa);
         int fy = findFa(y, fa);
         //这两个节点相互不通
-        if(fx != fy){
+        if (fx != fy) {
             fa[fx] = fy;
             //边数+1
             return 1;
-        }else{
+        } else {
             return 0;
         }
     }

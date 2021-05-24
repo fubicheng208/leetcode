@@ -8,47 +8,46 @@ public class P1 {
         int n = scanner.nextInt();
 
         int[][] a = new int[n][n];
-        if(n % 2 == 0){
+        if (n % 2 == 0) {
             for (int i = 0; i < n; i++) {
                 for (int j = 0; j < n; j++) {
-                    if(i < n/2 && j < n/2 && j > i){
+                    if (i < n / 2 && j < n / 2 && j > i) {
                         a[i][j] = 2;
-                    }else if(i < n/2 && j < n/2 && j < i){
+                    } else if (i < n / 2 && j < n / 2 && j < i) {
                         a[i][j] = 3;
-                    }else if(i >= n/2 && j < n/2 && j < n - 1 - i){
+                    } else if (i >= n / 2 && j < n / 2 && j < n - 1 - i) {
                         a[i][j] = 4;
-                    }else if(i >= n/2 && j < n/2 && j > n - 1 - i){
+                    } else if (i >= n / 2 && j < n / 2 && j > n - 1 - i) {
                         a[i][j] = 5;
-                    }else if(i >= n/2 && j >= n/2 && j < i){
+                    } else if (i >= n / 2 && j >= n / 2 && j < i) {
                         a[i][j] = 6;
-                    }else if(i >= n/2 && j >= n/2 && j > i){
+                    } else if (i >= n / 2 && j >= n / 2 && j > i) {
                         a[i][j] = 7;
-                    }else if(i < n/2 && j >= n/2 && j > n - 1 - i){
+                    } else if (i < n / 2 && j >= n / 2 && j > n - 1 - i) {
                         a[i][j] = 8;
-                    }else if(i < n/2 && j >= n/2 && j < n - 1 - i){
+                    } else if (i < n / 2 && j >= n / 2 && j < n - 1 - i) {
                         a[i][j] = 1;
                     }
                 }
             }
-        }
-        else{
+        } else {
             for (int i = 0; i < n; i++) {
                 for (int j = 0; j < n; j++) {
-                    if(i < n/2 && j < n/2 && j > i){
+                    if (i < n / 2 && j < n / 2 && j > i) {
                         a[i][j] = 2;
-                    }else if(i < n/2 && j < n/2 && j < i){
+                    } else if (i < n / 2 && j < n / 2 && j < i) {
                         a[i][j] = 3;
-                    }else if(i > n/2 && j < n/2 && j < n - 1 - i){
+                    } else if (i > n / 2 && j < n / 2 && j < n - 1 - i) {
                         a[i][j] = 4;
-                    }else if(i > n/2 && j < n/2 && j > n - 1 - i){
+                    } else if (i > n / 2 && j < n / 2 && j > n - 1 - i) {
                         a[i][j] = 5;
-                    }else if(i > n/2 && j > n/2 && j < i){
+                    } else if (i > n / 2 && j > n / 2 && j < i) {
                         a[i][j] = 6;
-                    }else if(i > n/2 && j > n/2 && j > i){
+                    } else if (i > n / 2 && j > n / 2 && j > i) {
                         a[i][j] = 7;
-                    }else if(i < n/2 && j > n/2 && j > n - 1 - i){
+                    } else if (i < n / 2 && j > n / 2 && j > n - 1 - i) {
                         a[i][j] = 8;
-                    }else if(i < n/2 && j > n/2 && j < n - 1 - i){
+                    } else if (i < n / 2 && j > n / 2 && j < n - 1 - i) {
                         a[i][j] = 1;
                     }
                 }

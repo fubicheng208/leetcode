@@ -6,10 +6,11 @@ import java.util.Scanner;
 
 public class P1_o {
 
-    static class Node{
+    static class Node {
         public int value;
         public Node next;
-        public Node(int data){
+
+        public Node(int data) {
             this.value = data;
         }
     }
@@ -26,7 +27,7 @@ public class P1_o {
         }
         h1.next = null;
 
-        int m= scanner.nextInt();
+        int m = scanner.nextInt();
         Node head2 = new Node(-1);
         Node h2 = head2;
         for (int i = 0; i < m; i++) {
@@ -40,12 +41,12 @@ public class P1_o {
         Node u1 = head1.next;
         Node u2 = head2.next;
         String res = "";
-        while(u1 != null && u2 != null){
-            if(u1.value < u2.value){
+        while (u1 != null && u2 != null) {
+            if (u1.value < u2.value) {
                 u1 = u1.next;
-            }else if(u1.value > u2.value){
+            } else if (u1.value > u2.value) {
                 u1 = u1.next;
-            }else{
+            } else {
                 res += u1.value + " ";
                 u1 = u1.next;
                 u2 = u2.next;

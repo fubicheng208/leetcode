@@ -12,7 +12,7 @@ public class M44 {
         long start = 1;
         long count = 9;
         //1.找到n是所在的范围区间的第几位，如15中的5是,10-99中101112131415..中的第12位
-        while(n > count){
+        while (n > count) {
             n -= count;
             digit++;
             start *= 10;

@@ -23,9 +23,9 @@ public class tmp {
 ////        前m个物体容积为j的背包可以放下，则j+1...的背包一定也可以放下；即dp[i][j-1]<=dp[i][j]
 //        return dp[A.length][m];
 
-        int dp[] = new int[m+1];
-        for(int num : A){
-            for(int j = m; j >= num; j--){
+        int dp[] = new int[m + 1];
+        for (int num : A) {
+            for (int j = m; j >= num; j--) {
                 dp[j] = Math.max(dp[j], dp[j - num] + num);
             }
         }
@@ -46,9 +46,9 @@ public class tmp {
 //        }
 //        return dp[A.length][m];
 
-        int dp[] = new int[m+1];
-        for(int i = 0; i < A.length; i++){
-            for(int j = m; j >= A[i]; j--){
+        int dp[] = new int[m + 1];
+        for (int i = 0; i < A.length; i++) {
+            for (int j = m; j >= A[i]; j--) {
                 dp[j] = Math.max(dp[j], dp[j - A[i]] + V[i]);
             }
         }
@@ -71,8 +71,8 @@ public class tmp {
 
         int dp[] = new int[target + 1];
         dp[0] = 1;
-        for(int num : nums){
-            for(int j = num; j <= target; j++)
+        for (int num : nums) {
+            for (int j = num; j <= target; j++)
                 dp[j] = dp[j] + dp[j - num];
         }
         return dp[target];
@@ -80,7 +80,7 @@ public class tmp {
 
     public class Solution {
         /**
-         * @param nums: an integer array and all positive numbers
+         * @param nums:   an integer array and all positive numbers
          * @param target: An integer
          * @return: An integer
          */
@@ -100,8 +100,8 @@ public class tmp {
 
             int[] dp = new int[target + 1];
             dp[0] = 1;
-            for(int num : nums){
-                for(int j = target; j >= num; j--){
+            for (int num : nums) {
+                for (int j = target; j >= num; j--) {
                     dp[j] = dp[j] + dp[j - num];
                 }
             }

@@ -33,10 +33,10 @@ public class Lint125_01_value {
     public int backPackIIV2(int m, int[] A, int[] V) {
         int[] dp = new int[m + 1];
         for (int i = 0; i < A.length; i++) {
-            for(int j = m; j >= A[i]; j--){
+            for (int j = m; j >= A[i]; j--) {
                 //放：背包容量为j-A[i]时的最大价值+当前物品价值
                 //不放：前i-1个物体背包容量为j时的最大价值
-                dp[j] = Math.max(dp[j], dp[j-A[i]] + V[i]);
+                dp[j] = Math.max(dp[j], dp[j - A[i]] + V[i]);
             }
         }
         return dp[m];

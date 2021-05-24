@@ -17,12 +17,12 @@ public class P2020 {
         }
     }
 
-    public static int calTimes(int num){
-        if(num == 1)
+    public static int calTimes(int num) {
+        if (num == 1)
             return 1;
-        if(num == 2)
+        if (num == 2)
             return 2;
-        return 1 + calTimes(num/2);
+        return 1 + calTimes(num / 2);
     }
 
 

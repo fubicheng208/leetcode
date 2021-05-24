@@ -3,8 +3,11 @@ package ali;
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class Ali2 {
-    public static void main(String[] args) {
+public class
+
+Ali2 {
+    public static void main(String[
+            ] args) {
         Long l;
         Scanner in = new Scanner(System.in);
         int n = in.nextInt();//n个养鸡场

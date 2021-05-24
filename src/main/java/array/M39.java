@@ -12,8 +12,8 @@ public class M39 {
 //    遇到与模拟众数相同的数，计数+1，不同-1；
     public int majorityElement(int[] nums) {
         int x = 0, tickets = 0;
-        for(int num : nums){
-            if(tickets == 0)
+        for (int num : nums) {
+            if (tickets == 0)
                 x = num;
             tickets += num == x ? 1 : -1;
         }

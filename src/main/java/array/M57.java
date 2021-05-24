@@ -13,8 +13,8 @@ import java.util.Map;
 public class M57 {
     public int[] twoSum(int[] nums, int target) {
         Map<Integer, Integer> hm = new HashMap<>();
-        for(int i = 0; i< nums.length; i++){
-            if(hm.containsKey(nums[i])){
+        for (int i = 0; i < nums.length; i++) {
+            if (hm.containsKey(nums[i])) {
                 return new int[]{nums[i], target - nums[i]};
             }
             hm.put(target - nums[i], i);

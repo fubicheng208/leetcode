@@ -25,10 +25,10 @@ public class P3_p {
         int[][] dp = new int[200][5010];
         dp[0][5000] = 1;
 
-        for (int i = 1; i <=m ; i++) {
-            for (int j = 0; j <= 10000 ; j++) {
-                for (int k = 1; k <= n ; k++) {
-                    dp[i][j + c[k] * v[i]] += dp[i-1][j];
+        for (int i = 1; i <= m; i++) {
+            for (int j = 0; j <= 10000; j++) {
+                for (int k = 1; k <= n; k++) {
+                    dp[i][j + c[k] * v[i]] += dp[i - 1][j];
                 }
             }
         }

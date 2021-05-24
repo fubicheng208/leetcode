@@ -19,7 +19,7 @@ public class P4 {
                     return o1 - o2;
                 }
             });
-            System.out.println(ls.get((ls.size()-1)/2));
+            System.out.println(ls.get((ls.size() - 1) / 2));
             ls.add(tmp);
         }
     }

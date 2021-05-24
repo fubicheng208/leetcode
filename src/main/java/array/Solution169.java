@@ -11,11 +11,11 @@ public class Solution169 {
     public int majorityElement(int[] nums) {
         int cnt = 0;
         int candidate = 0;
-        for(int n : nums){
-            if(cnt == 0){
+        for (int n : nums) {
+            if (cnt == 0) {
                 candidate = n;
             }
-            cnt += n==candidate ? 1 : -1;
+            cnt += n == candidate ? 1 : -1;
         }
         return candidate;
     }

@@ -17,13 +17,13 @@ public class P1 {
         int m = scanner.nextInt();
         for (int i = 0; i < m; i++) {
             int t = scanner.nextInt();
-            if(ls1.contains(t)){
+            if (ls1.contains(t)) {
                 res.add(t);
             }
         }
-        if(res.size() == 0)
+        if (res.size() == 0)
             System.out.println();
-        else{
+        else {
 
             System.out.print(res.get(0));
             for (int i = 1; i < res.size(); i++) {

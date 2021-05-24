@@ -8,16 +8,16 @@ public class P5 {
         int m = scanner.nextInt();
         int[] a = new int[m];
         LinkedHashSet<Integer> ls = new LinkedHashSet<>();
-        LinkedHashMap<Integer, Integer> lm = new LinkedHashMap<Integer, Integer>(100001, (float)0.75, true);
+        LinkedHashMap<Integer, Integer> lm = new LinkedHashMap<Integer, Integer>(100001, (float) 0.75, true);
         for (int i = 0; i < m; i++) {
             int t = scanner.nextInt();
-            if(lm.containsValue(t)){
+            if (lm.containsValue(t)) {
                 lm.get(t);
-            }else{
+            } else {
                 lm.put(t, t);
             }
         }
-        for (Map.Entry entry : lm.entrySet()){
+        for (Map.Entry entry : lm.entrySet()) {
             System.out.println(entry.getKey());
         }
 

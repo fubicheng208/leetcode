@@ -10,18 +10,19 @@ public class M34 {
 
     LinkedList<List<Integer>> res = new LinkedList<>();
     LinkedList<Integer> tmp = new LinkedList<>();
+
     public List<List<Integer>> pathSum(TreeNode root, int sum) {
         helper(root, sum);
         return res;
     }
 
-    public void helper(TreeNode node, int cnt){
-        if(node == null){
+    public void helper(TreeNode node, int cnt) {
+        if (node == null) {
             return;
         }
         tmp.add(node.val);
         cnt -= node.val;
-        if(cnt == 0 && node.left == null && node.right == null){
+        if (cnt == 0 && node.left == null && node.right == null) {
             res.add(new ArrayList(tmp));
         }
         helper(node.left, cnt);

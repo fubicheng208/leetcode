@@ -5,27 +5,27 @@ import java.util.Queue;
 
 public class M37 {
 
-//    请实现两个函数，分别用来序列化和反序列化二叉树。
+    //    请实现两个函数，分别用来序列化和反序列化二叉树。
     // Encodes a tree to a single string.
     public String serialize(TreeNode root) {
-        if(root == null){
+        if (root == null) {
             return "";
         }
         StringBuilder sb = new StringBuilder("[" + root.val);
         Queue<TreeNode> q = new LinkedList<>();
         q.add(root);
-        while(!q.isEmpty()){
+        while (!q.isEmpty()) {
             TreeNode t = q.poll();
-            if(t.left != null){
+            if (t.left != null) {
                 q.add(t.left);
                 sb.append("," + t.left.val);
-            }else{
+            } else {
                 sb.append(",null");
             }
-            if(t.right != null){
+            if (t.right != null) {
                 q.add(t.right);
                 sb.append("," + t.right.val);
-            }else{
+            } else {
                 sb.append(",null");
             }
         }
@@ -35,7 +35,7 @@ public class M37 {
 
     // Decodes your encoded data to tree.
     public TreeNode deserialize(String data) {
-        if(data == null || data.length() == 0){
+        if (data == null || data.length() == 0) {
             return null;
         }
         String[] vals = data.substring(1, data.length() - 1).split(",");
@@ -43,15 +43,15 @@ public class M37 {
         Queue<TreeNode> q = new LinkedList<>();
         q.add(root);
         int i = 1;
-        while(!q.isEmpty()){
+        while (!q.isEmpty()) {
             TreeNode node = q.poll();
-            if(!vals[i].equals("null")){
+            if (!vals[i].equals("null")) {
                 TreeNode l = new TreeNode(Integer.parseInt(vals[i]));
                 node.left = l;
                 q.add(l);
             }
             i++;
-            if(!vals[i].equals("null")){
+            if (!vals[i].equals("null")) {
                 TreeNode r = new TreeNode(Integer.parseInt(vals[i]));
                 node.right = r;
                 q.add(r);

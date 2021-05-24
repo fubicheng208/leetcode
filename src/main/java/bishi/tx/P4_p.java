@@ -22,10 +22,10 @@ public class P4_p {
         for (int i = 0; i < n; i++) {
             int v = hm.get(i);
             int index = ls.indexOf(v);
-            if(index < n/2){
-                System.out.println(ls.get(n/2));
-            }else{
-                System.out.println(ls.get(n/2 - 1));
+            if (index < n / 2) {
+                System.out.println(ls.get(n / 2));
+            } else {
+                System.out.println(ls.get(n / 2 - 1));
             }
         }
     }

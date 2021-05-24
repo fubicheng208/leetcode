@@ -13,10 +13,10 @@ public class P4_p2 {
             a[i] = scanner.nextInt();
         }
         HashSet<Integer> hs = new HashSet<>();
-        boolean[] fs= new boolean[1000000001];
+        boolean[] fs = new boolean[1000000001];
 
         for (int num : a) {
-            for (int i = 1; i <= n / num ; i++) {
+            for (int i = 1; i <= n / num; i++) {
 //                if (!hs.contains(i * num)) {
 //                    hs.add(i * num);
 //                }
@@ -25,7 +25,7 @@ public class P4_p2 {
         }
 
         int cnt = 0;
-        for(Boolean b : fs){
+        for (Boolean b : fs) {
             if (b)
                 cnt++;
         }

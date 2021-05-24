@@ -5,7 +5,7 @@ import java.util.*;
 public class P2021_3 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-        int N,M,T;
+        int N, M, T;
         N = sc.nextInt();
         M = sc.nextInt();
         T = sc.nextInt();
@@ -26,23 +26,23 @@ public class P2021_3 {
         Collections.sort(ls1);
         Collections.sort(ls2);
         int ans = Integer.MAX_VALUE;
-        if(T!=0){
-            for(Node item : ls1){
-                if(item.y >= T)
+        if (T != 0) {
+            for (Node item : ls1) {
+                if (item.y >= T)
                     ans = Math.min(ans, item.x);
             }
             int pos = ls1.size() - 1;
-            for(Node item : ls2){
-                if(item.y >= T){
+            for (Node item : ls2) {
+                if (item.y >= T) {
                     ans = Math.min(ans, item.x);
-                }else{
-                    while (pos>=0 && item.y + ls1.get(pos).y >= T){
+                } else {
+                    while (pos >= 0 && item.y + ls1.get(pos).y >= T) {
                         ans = Math.min(item.x + ls1.get(pos).x, ans);
                         pos--;
                     }
                 }
             }
-        }else{
+        } else {
             ans = 0;
         }
         if (ans == Integer.MAX_VALUE)
@@ -52,9 +52,10 @@ public class P2021_3 {
 
 }
 
-class Node implements Comparable<Node>{
+class Node implements Comparable<Node> {
     public int x;
     public int y;
+
     public Node(int x, int y) {
         this.x = x;
         this.y = y;
@@ -62,12 +63,12 @@ class Node implements Comparable<Node>{
 
     @Override
     public int compareTo(Node n) {
-        if(this.y == n.y){
-            if(this.x == n.x)
+        if (this.y == n.y) {
+            if (this.x == n.x)
                 return 0;
-            else if(this.x < n.x){
+            else if (this.x < n.x) {
                 return -1;
-            }else{
+            } else {
                 return 1;
             }
         }

@@ -9,14 +9,14 @@ public class P2 {
 
         int low = 0;
         int hi = 0;
-        for (char c : s.toCharArray()){
-            if(c >= 'a'){
+        for (char c : s.toCharArray()) {
+            if (c >= 'a') {
                 low++;
-            }else{
+            } else {
                 hi++;
             }
         }
-        System.out.println(s.length()/2 - Math.min(low, hi));
+        System.out.println(s.length() / 2 - Math.min(low, hi));
 
     }
 }

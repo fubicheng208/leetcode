@@ -19,6 +19,7 @@ public class Solution1 {
 
         //一遍Hash
         Map<Integer, Integer> hm = new HashMap<Integer, Integer>();
+        
         for (int i = 0; i < nums.length; i++) {
             int other = target - nums[i];
             if (hm.containsKey(other))

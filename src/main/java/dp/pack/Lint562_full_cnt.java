@@ -34,11 +34,11 @@ public class Lint562_full_cnt {
         for (int i = 1; i < dp.length; i++) {
             //前i个物体，目标体积0，即1中方案（都不放）
             for (int j = 0; j < dp[0].length; j++) {
-                if(nums[i-1] > j){
-                    dp[i][j] = dp[i-1][j];
-                }else{
+                if (nums[i - 1] > j) {
+                    dp[i][j] = dp[i - 1][j];
+                } else {
                     //因为一个物品可以放多次，所以dp[i]
-                    dp[i][j] = dp[i-1][j] + dp[i][j-nums[i-1]];
+                    dp[i][j] = dp[i - 1][j] + dp[i][j - nums[i - 1]];
                 }
             }
         }
@@ -49,8 +49,8 @@ public class Lint562_full_cnt {
     public int backPackIVV2(int[] nums, int target) {
         int[] dp = new int[target + 1];
         dp[0] = 1;
-        for(int num : nums){
-            for (int j = num; j <= target ; j++) {
+        for (int num : nums) {
+            for (int j = num; j <= target; j++) {
                 //不放这个物体的方法数+放这个物体的方法数
                 dp[j] = dp[j] + dp[j - num];
             }

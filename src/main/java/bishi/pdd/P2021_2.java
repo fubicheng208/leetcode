@@ -18,7 +18,7 @@ public class P2021_2 {
         }
     }
 
-    public static void up(int[] data){
+    public static void up(int[] data) {
         int[] tmp = new int[6];
         for (int i = 0; i < 6; i++) {
             tmp[i] = data[i];
@@ -29,7 +29,7 @@ public class P2021_2 {
         data[5] = tmp[0];
     }
 
-    public static void right(int[] data){
+    public static void right(int[] data) {
         int[] tmp = new int[6];
         for (int i = 0; i < 6; i++) {
             tmp[i] = data[i];
@@ -40,7 +40,7 @@ public class P2021_2 {
         data[5] = tmp[3];
     }
 
-    public static void front(int[] data){
+    public static void front(int[] data) {
         int[] tmp = new int[6];
         for (int i = 0; i < 6; i++) {
             tmp[i] = data[i];
@@ -51,7 +51,7 @@ public class P2021_2 {
         data[5] = tmp[3];
     }
 
-    public static int cal(int[] data){
+    public static int cal(int[] data) {
         int age = 1;
         int ans = 0;
         for (int i = 0; i < 6; i++) {
