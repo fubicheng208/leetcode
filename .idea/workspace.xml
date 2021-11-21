@@ -23,175 +23,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="11b64349-6058-4d9c-a691-18d95007c77f" name="Default Changelist" comment="20201117">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DFS/Jindian0401.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/array/Jindian01_03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/array/Solution4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/back_tracking/Solution40.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/intelligent/Solution56.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/intelligent/Solution56_3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/intelligent/Solution56_array.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/intelligent/Solution57.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/linked_list/Jindian02_01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/linked_list/Jindian02_02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/linked_list/Jindian02_03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/linked_list/Jindian02_04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/linked_list/LRUCache.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/linked_list/M2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/linked_list/Solution25.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/search_tree/BSTIterator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/search_tree/BSTIterator2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/stack/M31.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/string/Jindian01_06.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/string/Jindian01_09.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/string/Solution434.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/test/TestWait.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/threads/Consumer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/threads/MyService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/threads/Provider.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/threads/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/tree/Jindian0402.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/tree/Jindian0404.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/tree/Solution429.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/two_pointer/Solution26.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/n_tree/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/n_tree/Solution559.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/test/TestFile.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/JUC/consumer_provider/MyConsumerThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/JUC/consumer_provider/MyConsumerThread.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/JUC/consumer_provider/MyProviderThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/JUC/consumer_provider/MyProviderThread.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/JUC/consumer_provider/MyService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/JUC/consumer_provider/MyService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/JUC/countdownlatch/CountDownLatchTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/JUC/countdownlatch/CountDownLatchTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/JUC/order_print/Foo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/JUC/order_print/Foo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/JUC/order_print/Run.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/JUC/order_print/Run.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ali/Ali2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ali/Ali2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/array/M17.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/array/M17.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/array/M21.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/array/M21.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/array/M39.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/array/M39.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/array/M56.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/array/M56.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/array/M57.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/array/M57.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/array/M860.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/array/M860.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/array/Solution169.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/array/Solution169.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/array/Solution350.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/array/Solution350.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/binary_search/Solution33.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/binary_search/Solution33.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/bishi/b360/P2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bishi/b360/P2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/bishi/bilibili/P1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bishi/bilibili/P1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/bishi/bilibili/P2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bishi/bilibili/P2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/bishi/bilibili/P3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bishi/bilibili/P3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/bishi/didi/P2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bishi/didi/P2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/bishi/duoyi/M1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bishi/duoyi/M1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/bishi/jianhang/P1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bishi/jianhang/P1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/bishi/jianhang/P2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bishi/jianhang/P2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/bishi/meituan/P1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bishi/meituan/P1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/bishi/meituan/P2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bishi/meituan/P2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/bishi/meituan/P4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bishi/meituan/P4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/bishi/meituan/P4_p.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bishi/meituan/P4_p.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/bishi/meituan/P5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bishi/meituan/P5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/bishi/mt/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bishi/mt/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/bishi/pdd/P1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bishi/pdd/P1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/bishi/pdd/P2020.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bishi/pdd/P2020.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/bishi/pdd/P2021.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bishi/pdd/P2021.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/bishi/pdd/P2021_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bishi/pdd/P2021_2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/bishi/pdd/P2021_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bishi/pdd/P2021_3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/bishi/pdd/P3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bishi/pdd/P3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/bishi/pdd/P3_p.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bishi/pdd/P3_p.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/bishi/pdd/P4_p.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bishi/pdd/P4_p.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/bishi/pdd/P4_p2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bishi/pdd/P4_p2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/bishi/pdd/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bishi/pdd/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/bishi/sf/P1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bishi/sf/P1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/bishi/sogou/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bishi/sogou/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/bishi/sogou/P1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bishi/sogou/P1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/bishi/sogou/P2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bishi/sogou/P2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/bishi/sogou/P3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bishi/sogou/P3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/bishi/tx/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bishi/tx/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/bishi/tx/P1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bishi/tx/P1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/bishi/tx/P1_o.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bishi/tx/P1_o.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/bishi/tx/P4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bishi/tx/P4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/bishi/tx/P4_p.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bishi/tx/P4_p.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/bishi/wangyi/WY1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bishi/wangyi/WY1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/bishi/wangyi/WY2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bishi/wangyi/WY2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/bishi/wangyi/WY3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bishi/wangyi/WY3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/bishi/wyAndroid/P2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bishi/wyAndroid/P2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/bishi/wyAndroid/P3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bishi/wyAndroid/P3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/bishi/wyAndroid/P4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bishi/wyAndroid/P4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/bishi/yfd/P1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bishi/yfd/P1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/bishi/yfd/P2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bishi/yfd/P2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/bishi/yfd/P3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bishi/yfd/P3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/bishi/yinke/P1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bishi/yinke/P1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/bishi/yinke/P3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bishi/yinke/P3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/bishi/yinke/P4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bishi/yinke/P4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/bishi/yinke/p2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bishi/yinke/p2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dp/Solution279.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dp/Solution279.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dp/Solution91_sp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dp/Solution91_sp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dp/pack/Lint125_01_value.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dp/pack/Lint125_01_value.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dp/pack/Lint440_full_value.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dp/pack/Lint440_full_value.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dp/pack/Lint562_full_cnt.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dp/pack/Lint562_full_cnt.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dp/pack/Lint564_combination_full.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dp/pack/Lint564_combination_full.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dp/pack/Lint92_01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dp/pack/Lint92_01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dp/pack/M14.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dp/pack/M14.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dp/pack/M14_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dp/pack/M14_2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dp/pack/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dp/pack/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dp/pack/tmp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dp/pack/tmp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dp/stock/M121.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dp/stock/M121.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dp/stock/M122.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dp/stock/M122.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dp/stock/M123.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dp/stock/M123.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dp/stock/M188.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dp/stock/M188.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dp/stock/M309.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dp/stock/M309.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dp/stock/M63.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dp/stock/M63.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dp/stock/M714.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dp/stock/M714.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/fsm/M20.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/fsm/M20.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/hash/Solution1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hash/Solution1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/heap/M40.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/heap/M40.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/heap/Solution215.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/heap/Solution215.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/main/java/dp/Solution91_sp.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/maths/M16.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/maths/M16.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/maths/M43.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/maths/M43.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/maths/M44.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/maths/M44.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/maths/M67.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/maths/M67.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/maths/Solution504.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/maths/Solution504.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/queue/M32.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/queue/M32.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/sort/HeapSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sort/HeapSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/sort/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sort/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/sort/MergeSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sort/MergeSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/sort/QuickSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sort/QuickSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/sort/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sort/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/sort/SortTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sort/SortTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/test/TestArrayPrint.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/test/TestArrayPrint.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/test/TestHashSet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/test/TestHashSet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/test/TestListCopy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/test/TestListCopy.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/test/TestRadix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/test/TestRadix.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/tree/M26.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tree/M26.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/tree/M27.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tree/M27.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/tree/M28.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tree/M28.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/tree/M32.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tree/M32.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/tree/M32_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tree/M32_3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/tree/M34.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tree/M34.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/tree/M37.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tree/M37.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/tree/M54.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tree/M54.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/tree/M55.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tree/M55.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/tree/M55_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tree/M55_2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/tree/M68.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tree/M68.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/tree/M68_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tree/M68_2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/JUC/order_print/Foo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/JUC/order_print/Foo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/JUC/order_print/Run$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/JUC/order_print/Run$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/JUC/order_print/Run$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/JUC/order_print/Run$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/JUC/order_print/Run$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/JUC/order_print/Run$3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/JUC/order_print/Run.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/JUC/order_print/Run.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/Leetcode.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ali/Ali2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ali/Ali2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/binary_search/Solution33.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/binary_search/Solution33.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/bishi/meituan/P4.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/bishi/meituan/P4.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/bishi/sogou/P2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/bishi/sogou/P2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/bishi/tx/P1_o$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/bishi/tx/P1_o$Node.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/bishi/tx/P1_o.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/bishi/tx/P1_o.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/bishi/yinke/P1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/bishi/yinke/P1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/bishi/yinke/P3.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/bishi/yinke/P3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/bishi/yinke/P4.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/bishi/yinke/P4.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/bishi/yinke/p2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/bishi/yinke/p2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/dp/Solution279.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dp/Solution279.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/hash/Solution1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/hash/Solution1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/heap/M40$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/heap/M40$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/heap/M40.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/heap/M40.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/heap/Solution215.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/heap/Solution215.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/sort/HeapSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/sort/HeapSort.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -271,7 +107,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
@@ -288,7 +124,7 @@
       <recent name="E:\idea\MVN\src\main\java\array" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Solution57">
+  <component name="RunManager" selected="Application.TestFile">
     <configuration name="Solution56_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="sort.Solution56_2" />
       <module name="MVN" />
@@ -328,22 +164,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="threads.Test" />
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Test" />
       <module name="MVN" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="threads.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Test" />
+    <configuration name="TestFile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test.TestFile" />
       <module name="MVN" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -363,11 +199,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TestFile" />
         <item itemvalue="Application.Solution57" />
         <item itemvalue="Application.Solution56_3" />
         <item itemvalue="Application.Solution56_2" />
         <item itemvalue="Application.Test" />
-        <item itemvalue="Application.Test (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -571,7 +407,11 @@
       <workItem from="1621677348011" duration="8411000" />
       <workItem from="1621737886076" duration="7627000" />
       <workItem from="1621822436184" duration="3659000" />
-      <workItem from="1621857208740" duration="4183000" />
+      <workItem from="1621857208740" duration="5424000" />
+      <workItem from="1621962069214" duration="739000" />
+      <workItem from="1622021658869" duration="782000" />
+      <workItem from="1622084393507" duration="3210000" />
+      <workItem from="1637483427148" duration="296000" />
     </task>
     <task id="LOCAL-00001" summary="20200801">
       <created>1596296633597</created>
@@ -627,58 +467,14 @@
     <option name="LAST_COMMIT_MESSAGE" value="20201117" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="466" y="183" key="#Inspections" timestamp="1621680114352">
-      <screen x="0" y="0" width="1680" height="1010" />
+    <state x="649" y="257" key="SettingsEditor" timestamp="1637483692210">
+      <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="466" y="183" key="#Inspections/0.0.1680.1010@0.0.1680.1010" timestamp="1621680114352" />
-    <state x="645" y="221" key="#com.intellij.ide.util.MemberChooser" timestamp="1621824282857">
-      <screen x="0" y="0" width="1680" height="1010" />
+    <state x="649" y="257" key="SettingsEditor/0.0.2560.1400@0.0.2560.1400" timestamp="1637483692210" />
+    <state x="859" y="308" width="840" height="1034" key="search.everywhere.popup" timestamp="1637483676828">
+      <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="645" y="221" key="#com.intellij.ide.util.MemberChooser/0.0.1680.1010@0.0.1680.1010" timestamp="1621824282857" />
-    <state width="1637" height="189" key="GridCell.Tab.0.bottom" timestamp="1621860642676">
-      <screen x="0" y="0" width="1680" height="1010" />
-    </state>
-    <state width="1637" height="189" key="GridCell.Tab.0.bottom/0.0.1680.1010@0.0.1680.1010" timestamp="1621860642676" />
-    <state width="1637" height="189" key="GridCell.Tab.0.center" timestamp="1621860642676">
-      <screen x="0" y="0" width="1680" height="1010" />
-    </state>
-    <state width="1637" height="189" key="GridCell.Tab.0.center/0.0.1680.1010@0.0.1680.1010" timestamp="1621860642676" />
-    <state width="1637" height="189" key="GridCell.Tab.0.left" timestamp="1621860642676">
-      <screen x="0" y="0" width="1680" height="1010" />
-    </state>
-    <state width="1637" height="189" key="GridCell.Tab.0.left/0.0.1680.1010@0.0.1680.1010" timestamp="1621860642676" />
-    <state width="1637" height="189" key="GridCell.Tab.0.right" timestamp="1621860642676">
-      <screen x="0" y="0" width="1680" height="1010" />
-    </state>
-    <state width="1637" height="189" key="GridCell.Tab.0.right/0.0.1680.1010@0.0.1680.1010" timestamp="1621860642676" />
-    <state width="1637" height="189" key="GridCell.Tab.1.bottom" timestamp="1621860642676">
-      <screen x="0" y="0" width="1680" height="1010" />
-    </state>
-    <state width="1637" height="189" key="GridCell.Tab.1.bottom/0.0.1680.1010@0.0.1680.1010" timestamp="1621860642676" />
-    <state width="1637" height="189" key="GridCell.Tab.1.center" timestamp="1621860642676">
-      <screen x="0" y="0" width="1680" height="1010" />
-    </state>
-    <state width="1637" height="189" key="GridCell.Tab.1.center/0.0.1680.1010@0.0.1680.1010" timestamp="1621860642676" />
-    <state width="1637" height="189" key="GridCell.Tab.1.left" timestamp="1621860642676">
-      <screen x="0" y="0" width="1680" height="1010" />
-    </state>
-    <state width="1637" height="189" key="GridCell.Tab.1.left/0.0.1680.1010@0.0.1680.1010" timestamp="1621860642676" />
-    <state width="1637" height="189" key="GridCell.Tab.1.right" timestamp="1621860642676">
-      <screen x="0" y="0" width="1680" height="1010" />
-    </state>
-    <state width="1637" height="189" key="GridCell.Tab.1.right/0.0.1680.1010@0.0.1680.1010" timestamp="1621860642676" />
-    <state x="542" y="237" width="596" height="594" key="find.popup" timestamp="1621741604991">
-      <screen x="0" y="0" width="1680" height="1010" />
-    </state>
-    <state x="542" y="237" width="596" height="594" key="find.popup/0.0.1680.1010@0.0.1680.1010" timestamp="1621741604991" />
-    <state x="214" y="165" key="new project wizard" timestamp="1620218520645">
-      <screen x="0" y="0" width="1680" height="1010" />
-    </state>
-    <state x="214" y="165" key="new project wizard/0.0.1680.1010@0.0.1680.1010" timestamp="1620218520645" />
-    <state x="503" y="217" width="672" height="678" key="search.everywhere.popup" timestamp="1621737895159">
-      <screen x="0" y="0" width="1680" height="1010" />
-    </state>
-    <state x="503" y="217" width="672" height="678" key="search.everywhere.popup/0.0.1680.1010@0.0.1680.1010" timestamp="1621737895159" />
+    <state x="859" y="308" width="840" height="1034" key="search.everywhere.popup/0.0.2560.1400@0.0.2560.1400" timestamp="1637483676828" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
