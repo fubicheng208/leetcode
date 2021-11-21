@@ -22,12 +22,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="11b64349-6058-4d9c-a691-18d95007c77f" name="Default Changelist" comment="20201117">
-      <change afterPath="$PROJECT_DIR$/src/main/java/n_tree/Node.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/n_tree/Solution559.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/test/TestFile.java" afterDir="false" />
+    <list default="true" id="11b64349-6058-4d9c-a691-18d95007c77f" name="Default Changelist" comment="2020-11-21">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/heap/Solution215.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/heap/Solution215.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,6 +75,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -104,10 +101,11 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
@@ -184,15 +182,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -411,7 +407,7 @@
       <workItem from="1621962069214" duration="739000" />
       <workItem from="1622021658869" duration="782000" />
       <workItem from="1622084393507" duration="3210000" />
-      <workItem from="1637483427148" duration="296000" />
+      <workItem from="1637483427148" duration="1992000" />
     </task>
     <task id="LOCAL-00001" summary="20200801">
       <created>1596296633597</created>
@@ -441,7 +437,14 @@
       <option name="project" value="LOCAL" />
       <updated>1605616276808</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="2020-11-21">
+      <created>1637483746915</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1637483746915</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -464,17 +467,26 @@
     <MESSAGE value="20200802" />
     <MESSAGE value="拼多多+网易+插入排序" />
     <MESSAGE value="20201117" />
-    <option name="LAST_COMMIT_MESSAGE" value="20201117" />
+    <MESSAGE value="2020-11-21" />
+    <option name="LAST_COMMIT_MESSAGE" value="2020-11-21" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="649" y="257" key="SettingsEditor" timestamp="1637483692210">
+    <state x="649" y="257" key="SettingsEditor" timestamp="1637486506007">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="649" y="257" key="SettingsEditor/0.0.2560.1400@0.0.2560.1400" timestamp="1637483692210" />
-    <state x="859" y="308" width="840" height="1034" key="search.everywhere.popup" timestamp="1637483676828">
+    <state x="649" y="257" key="SettingsEditor/0.0.2560.1400@0.0.2560.1400" timestamp="1637486506007" />
+    <state x="772" y="367" key="Vcs.Push.Dialog.v2" timestamp="1637486510240">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="859" y="308" width="840" height="1034" key="search.everywhere.popup/0.0.2560.1400@0.0.2560.1400" timestamp="1637483676828" />
+    <state x="772" y="367" key="Vcs.Push.Dialog.v2/0.0.2560.1400@0.0.2560.1400" timestamp="1637486510240" />
+    <state x="1026" y="592" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1637483752734">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1026" y="592" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.2560.1400@0.0.2560.1400" timestamp="1637483752734" />
+    <state x="859" y="308" width="840" height="1034" key="search.everywhere.popup" timestamp="1637486494000">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="859" y="308" width="840" height="1034" key="search.everywhere.popup/0.0.2560.1400@0.0.2560.1400" timestamp="1637486494000" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
