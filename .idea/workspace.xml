@@ -22,7 +22,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="11b64349-6058-4d9c-a691-18d95007c77f" name="Default Changelist" comment="75. 颜色分类 荷兰三色旗问题" />
+    <list default="true" id="11b64349-6058-4d9c-a691-18d95007c77f" name="Default Changelist" comment="283. 移动零">
+      <change afterPath="$PROJECT_DIR$/src/main/java/linked_list/Solution234.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -180,13 +183,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="class" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -410,6 +415,8 @@
       <workItem from="1637939078636" duration="312000" />
       <workItem from="1637985154861" duration="4217000" />
       <workItem from="1638024731825" duration="192000" />
+      <workItem from="1638086254127" duration="184000" />
+      <workItem from="1638115501900" duration="3352000" />
     </task>
     <task id="LOCAL-00001" summary="20200801">
       <created>1596296633597</created>
@@ -467,7 +474,14 @@
       <option name="project" value="LOCAL" />
       <updated>1638024829729</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="283. 移动零">
+      <created>1638086307657</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1638086307657</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -494,7 +508,8 @@
     <MESSAGE value="盛最多水的容器" />
     <MESSAGE value="700. 二叉搜索树中的搜索" />
     <MESSAGE value="75. 颜色分类 荷兰三色旗问题" />
-    <option name="LAST_COMMIT_MESSAGE" value="75. 颜色分类 荷兰三色旗问题" />
+    <MESSAGE value="283. 移动零" />
+    <option name="LAST_COMMIT_MESSAGE" value="283. 移动零" />
   </component>
   <component name="WindowStateProjectService">
     <state x="632" y="169" key="#Project_Structure" timestamp="1637985209961">
@@ -505,14 +520,18 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="649" y="257" key="SettingsEditor/0.0.2560.1400@0.0.2560.1400" timestamp="1637986211880" />
-    <state x="772" y="367" key="Vcs.Push.Dialog.v2" timestamp="1638024832875">
+    <state x="772" y="367" key="Vcs.Push.Dialog.v2" timestamp="1638086311462">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="772" y="367" key="Vcs.Push.Dialog.v2/0.0.2560.1400@0.0.2560.1400" timestamp="1638024832875" />
+    <state x="772" y="367" key="Vcs.Push.Dialog.v2/0.0.2560.1400@0.0.2560.1400" timestamp="1638086311462" />
     <state x="1026" y="592" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1637483752734">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="1026" y="592" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.2560.1400@0.0.2560.1400" timestamp="1637483752734" />
+    <state x="906" y="199" width="748" height="1002" key="find.popup" timestamp="1638115666787">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="906" y="199" width="748" height="1002" key="find.popup/0.0.2560.1400@0.0.2560.1400" timestamp="1638115666787" />
     <state x="859" y="308" width="840" height="1034" key="search.everywhere.popup" timestamp="1637986181724">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
